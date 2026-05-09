@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09 06:00 UTC",
+  "generated_at": "2026-05-09 08:00 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -2988,8 +2988,8 @@
       },
       {
         "name": "Maddie Baird",
-        "calls": 44,
-        "sms": 69,
+        "calls": 46,
+        "sms": 72,
         "emails": 0,
         "appointments": 0
       },
@@ -3875,15 +3875,15 @@
       },
       {
         "name": "Ivana Fulks",
-        "calls": 9,
-        "sms": 96,
+        "calls": 8,
+        "sms": 82,
         "emails": 4,
         "appointments": 0
       },
       {
         "name": "Maddie Baird",
-        "calls": 88,
-        "sms": 144,
+        "calls": 80,
+        "sms": 130,
         "emails": 4,
         "appointments": 0
       },
@@ -4202,8 +4202,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-05-02T06:00:09.692075+00:00",
-      "window_end": "2026-05-09T06:00:09.692075+00:00",
+      "window_start": "2026-05-02T08:00:14.821961+00:00",
+      "window_end": "2026-05-09T08:00:14.821961+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4322,8 +4322,8 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 44,
-            "sms": 69,
+            "calls": 46,
+            "sms": 72,
             "emails": 0,
             "appointments": 0
           },
@@ -4472,8 +4472,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-09T06:00:09.692075+00:00",
-      "window_end": "2026-05-09T06:00:09.692075+00:00",
+      "window_start": "2026-04-09T08:00:14.821961+00:00",
+      "window_end": "2026-05-09T08:00:14.821961+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4585,15 +4585,15 @@
           },
           {
             "name": "Ivana Fulks",
-            "calls": 9,
-            "sms": 96,
+            "calls": 8,
+            "sms": 82,
             "emails": 4,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 88,
-            "sms": 144,
+            "calls": 80,
+            "sms": 130,
             "emails": 4,
             "appointments": 0
           },
@@ -4893,7 +4893,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-09T06:00:09.692075+00:00",
+      "window_end": "2026-05-09T08:00:14.821961+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5005,15 +5005,15 @@
           },
           {
             "name": "Ivana Fulks",
-            "calls": 11,
-            "sms": 100,
+            "calls": 10,
+            "sms": 86,
             "emails": 4,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 88,
-            "sms": 146,
+            "calls": 80,
+            "sms": 132,
             "emails": 4,
             "appointments": 0
           },
@@ -5333,7 +5333,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-09T06:00:09.692075+00:00",
+      "window_end": "2026-05-09T08:00:14.821961+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5439,22 +5439,22 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 325,
+            "sms": 306,
             "emails": 18,
             "appointments": 76
           },
           {
             "name": "Ivana Fulks",
-            "calls": 21,
-            "sms": 174,
+            "calls": 20,
+            "sms": 160,
             "emails": 4,
             "appointments": 1
           },
           {
             "name": "Maddie Baird",
-            "calls": 127,
-            "sms": 223,
-            "emails": 15,
+            "calls": 114,
+            "sms": 208,
+            "emails": 14,
             "appointments": 1
           },
           {
