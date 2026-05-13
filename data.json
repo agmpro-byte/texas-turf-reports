@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13 02:01 UTC",
+  "generated_at": "2026-05-13 04:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1921,7 +1921,7 @@
       "stagePos": 2,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-22",
-      "days": 20
+      "days": 21
     },
     {
       "id": "Uty9Fo0Ixt7Gcwz2P2QT",
@@ -2041,7 +2041,7 @@
       "stagePos": 10,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-17",
-      "days": 25
+      "days": 26
     },
     {
       "id": "8LU96GMOv2BgpBV1lIBj",
@@ -2716,7 +2716,7 @@
       "stagePos": 1,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-12",
-      "days": 61
+      "days": 62
     },
     {
       "id": "dfx48ESqbLmZVWXCV5gQ",
@@ -2961,9 +2961,9 @@
       {
         "name": "Allison  Pasch",
         "calls": 24,
-        "sms": 75,
+        "sms": 74,
         "emails": 6,
-        "appointments": 4
+        "appointments": 0
       },
       {
         "name": "Blackwater AI",
@@ -2977,7 +2977,7 @@
         "calls": 3,
         "sms": 57,
         "emails": 0,
-        "appointments": 2
+        "appointments": 0
       },
       {
         "name": "Ivana Fulks",
@@ -2988,7 +2988,7 @@
       },
       {
         "name": "Maddie Baird",
-        "calls": 63,
+        "calls": 64,
         "sms": 102,
         "emails": 6,
         "appointments": 0
@@ -3856,10 +3856,10 @@
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 69,
-        "sms": 98,
-        "emails": 26,
-        "appointments": 9
+        "calls": 58,
+        "sms": 92,
+        "emails": 22,
+        "appointments": 0
       },
       {
         "name": "Blackwater AI",
@@ -3871,9 +3871,9 @@
       {
         "name": "Colin Corcoran",
         "calls": 3,
-        "sms": 242,
-        "emails": 11,
-        "appointments": 11
+        "sms": 241,
+        "emails": 9,
+        "appointments": 0
       },
       {
         "name": "Ivana Fulks",
@@ -3884,9 +3884,9 @@
       },
       {
         "name": "Maddie Baird",
-        "calls": 108,
-        "sms": 181,
-        "emails": 9,
+        "calls": 100,
+        "sms": 167,
+        "emails": 8,
         "appointments": 0
       },
       {
@@ -4199,8 +4199,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-05-06T02:00:08.544828+00:00",
-      "window_end": "2026-05-13T02:00:08.544828+00:00",
+      "window_start": "2026-05-06T04:00:21.556621+00:00",
+      "window_end": "2026-05-13T04:00:21.556621+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4292,9 +4292,9 @@
           {
             "name": "Allison  Pasch",
             "calls": 24,
-            "sms": 75,
+            "sms": 74,
             "emails": 6,
-            "appointments": 4
+            "appointments": 0
           },
           {
             "name": "Blackwater AI",
@@ -4308,7 +4308,7 @@
             "calls": 3,
             "sms": 57,
             "emails": 0,
-            "appointments": 2
+            "appointments": 0
           },
           {
             "name": "Ivana Fulks",
@@ -4319,7 +4319,7 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 63,
+            "calls": 64,
             "sms": 102,
             "emails": 6,
             "appointments": 0
@@ -4464,8 +4464,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-13T02:00:08.544828+00:00",
-      "window_end": "2026-05-13T02:00:08.544828+00:00",
+      "window_start": "2026-04-13T04:00:21.556621+00:00",
+      "window_end": "2026-05-13T04:00:21.556621+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4556,10 +4556,10 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 69,
-            "sms": 98,
-            "emails": 26,
-            "appointments": 9
+            "calls": 58,
+            "sms": 92,
+            "emails": 22,
+            "appointments": 0
           },
           {
             "name": "Blackwater AI",
@@ -4571,9 +4571,9 @@
           {
             "name": "Colin Corcoran",
             "calls": 3,
-            "sms": 242,
-            "emails": 11,
-            "appointments": 11
+            "sms": 241,
+            "emails": 9,
+            "appointments": 0
           },
           {
             "name": "Ivana Fulks",
@@ -4584,9 +4584,9 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 108,
-            "sms": 181,
-            "emails": 9,
+            "calls": 100,
+            "sms": 167,
+            "emails": 8,
             "appointments": 0
           },
           {
@@ -4880,7 +4880,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-13T02:00:08.544828+00:00",
+      "window_end": "2026-05-13T04:00:21.556621+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4971,10 +4971,10 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 69,
-            "sms": 98,
-            "emails": 26,
-            "appointments": 10
+            "calls": 58,
+            "sms": 92,
+            "emails": 22,
+            "appointments": 0
           },
           {
             "name": "Blackwater AI",
@@ -4986,9 +4986,9 @@
           {
             "name": "Colin Corcoran",
             "calls": 3,
-            "sms": 320,
-            "emails": 19,
-            "appointments": 26
+            "sms": 318,
+            "emails": 16,
+            "appointments": 0
           },
           {
             "name": "Ivana Fulks",
@@ -4999,9 +4999,9 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 120,
-            "sms": 181,
-            "emails": 12,
+            "calls": 112,
+            "sms": 167,
+            "emails": 11,
             "appointments": 0
           },
           {
@@ -5315,7 +5315,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-13T02:00:08.544828+00:00",
+      "window_end": "2026-05-13T04:00:21.556621+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5406,10 +5406,10 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 69,
-            "sms": 98,
-            "emails": 26,
-            "appointments": 10
+            "calls": 58,
+            "sms": 92,
+            "emails": 22,
+            "appointments": 0
           },
           {
             "name": "Blackwater AI",
@@ -5421,23 +5421,23 @@
           {
             "name": "Colin Corcoran",
             "calls": 3,
-            "sms": 400,
-            "emails": 28,
-            "appointments": 77
+            "sms": 393,
+            "emails": 25,
+            "appointments": 0
           },
           {
             "name": "Ivana Fulks",
             "calls": 30,
             "sms": 228,
             "emails": 12,
-            "appointments": 1
+            "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 153,
-            "sms": 327,
-            "emails": 27,
-            "appointments": 1
+            "calls": 141,
+            "sms": 308,
+            "emails": 25,
+            "appointments": 0
           },
           {
             "name": "Matt Dickert",
