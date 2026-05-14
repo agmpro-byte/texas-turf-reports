@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14 10:00 UTC",
+  "generated_at": "2026-05-14 12:00 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -2836,7 +2836,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 44
+      "days": 45
     },
     {
       "id": "mwa2Fb2WqYvBI5YFoFCI",
@@ -2960,9 +2960,9 @@
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 17,
-        "sms": 49,
-        "emails": 5,
+        "calls": 24,
+        "sms": 70,
+        "emails": 6,
         "appointments": 4
       },
       {
@@ -2974,23 +2974,23 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 2,
-        "sms": 46,
+        "calls": 3,
+        "sms": 59,
         "emails": 0,
         "appointments": 1
       },
       {
         "name": "Ivana Fulks",
-        "calls": 2,
-        "sms": 32,
-        "emails": 4,
+        "calls": 3,
+        "sms": 48,
+        "emails": 6,
         "appointments": 0
       },
       {
         "name": "Maddie Baird",
-        "calls": 46,
-        "sms": 71,
-        "emails": 7,
+        "calls": 53,
+        "sms": 94,
+        "emails": 8,
         "appointments": 0
       },
       {
@@ -3814,9 +3814,9 @@
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 29,
-        "sms": 59,
-        "emails": 11,
+        "calls": 39,
+        "sms": 82,
+        "emails": 12,
         "appointments": 10
       },
       {
@@ -3828,23 +3828,23 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 2,
-        "sms": 138,
+        "calls": 3,
+        "sms": 182,
         "emails": 4,
         "appointments": 11
       },
       {
         "name": "Ivana Fulks",
-        "calls": 8,
-        "sms": 74,
-        "emails": 8,
+        "calls": 12,
+        "sms": 111,
+        "emails": 12,
         "appointments": 0
       },
       {
         "name": "Maddie Baird",
-        "calls": 69,
-        "sms": 111,
-        "emails": 9,
+        "calls": 84,
+        "sms": 141,
+        "emails": 10,
         "appointments": 0
       },
       {
@@ -4157,8 +4157,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-05-07T10:00:13.645132+00:00",
-      "window_end": "2026-05-14T10:00:13.645132+00:00",
+      "window_start": "2026-05-07T12:00:13.988563+00:00",
+      "window_end": "2026-05-14T12:00:13.988563+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4249,9 +4249,9 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 17,
-            "sms": 49,
-            "emails": 5,
+            "calls": 24,
+            "sms": 70,
+            "emails": 6,
             "appointments": 4
           },
           {
@@ -4263,23 +4263,23 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 2,
-            "sms": 46,
+            "calls": 3,
+            "sms": 59,
             "emails": 0,
             "appointments": 1
           },
           {
             "name": "Ivana Fulks",
-            "calls": 2,
-            "sms": 32,
-            "emails": 4,
+            "calls": 3,
+            "sms": 48,
+            "emails": 6,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 46,
-            "sms": 71,
-            "emails": 7,
+            "calls": 53,
+            "sms": 94,
+            "emails": 8,
             "appointments": 0
           },
           {
@@ -4432,8 +4432,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-14T10:00:13.645132+00:00",
-      "window_end": "2026-05-14T10:00:13.645132+00:00",
+      "window_start": "2026-04-14T12:00:13.988563+00:00",
+      "window_end": "2026-05-14T12:00:13.988563+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4524,9 +4524,9 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 29,
-            "sms": 59,
-            "emails": 11,
+            "calls": 39,
+            "sms": 82,
+            "emails": 12,
             "appointments": 10
           },
           {
@@ -4538,23 +4538,23 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 2,
-            "sms": 138,
+            "calls": 3,
+            "sms": 182,
             "emails": 4,
             "appointments": 11
           },
           {
             "name": "Ivana Fulks",
-            "calls": 8,
-            "sms": 74,
-            "emails": 8,
+            "calls": 12,
+            "sms": 111,
+            "emails": 12,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 69,
-            "sms": 111,
-            "emails": 9,
+            "calls": 84,
+            "sms": 141,
+            "emails": 10,
             "appointments": 0
           },
           {
@@ -4848,7 +4848,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-14T10:00:13.645132+00:00",
+      "window_end": "2026-05-14T12:00:13.988563+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4939,9 +4939,9 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 29,
-            "sms": 59,
-            "emails": 11,
+            "calls": 39,
+            "sms": 82,
+            "emails": 12,
             "appointments": 11
           },
           {
@@ -4953,23 +4953,23 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 2,
-            "sms": 154,
-            "emails": 6,
+            "calls": 3,
+            "sms": 205,
+            "emails": 7,
             "appointments": 26
           },
           {
             "name": "Ivana Fulks",
-            "calls": 10,
-            "sms": 80,
-            "emails": 8,
+            "calls": 15,
+            "sms": 120,
+            "emails": 12,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 79,
-            "sms": 111,
-            "emails": 11,
+            "calls": 98,
+            "sms": 141,
+            "emails": 12,
             "appointments": 0
           },
           {
@@ -5283,7 +5283,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-14T10:00:13.645132+00:00",
+      "window_end": "2026-05-14T12:00:13.988563+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5374,9 +5374,9 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 29,
-            "sms": 59,
-            "emails": 11,
+            "calls": 39,
+            "sms": 82,
+            "emails": 12,
             "appointments": 11
           },
           {
@@ -5388,23 +5388,23 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 2,
-            "sms": 204,
-            "emails": 12,
+            "calls": 3,
+            "sms": 276,
+            "emails": 16,
             "appointments": 77
           },
           {
             "name": "Ivana Fulks",
-            "calls": 20,
-            "sms": 154,
-            "emails": 8,
+            "calls": 30,
+            "sms": 231,
+            "emails": 12,
             "appointments": 1
           },
           {
             "name": "Maddie Baird",
-            "calls": 95,
-            "sms": 197,
-            "emails": 19,
+            "calls": 121,
+            "sms": 270,
+            "emails": 24,
             "appointments": 1
           },
           {
