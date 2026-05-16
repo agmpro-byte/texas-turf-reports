@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16 14:00 UTC",
+  "generated_at": "2026-05-16 16:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -601,7 +601,7 @@
       "stagePos": 5,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-17",
-      "days": 28
+      "days": 29
     },
     {
       "id": "odwIJFbv4fj1iMtajErO",
@@ -676,7 +676,7 @@
       "stagePos": 2,
       "source": null,
       "created": "2026-04-06",
-      "days": 39
+      "days": 40
     },
     {
       "id": "rg9u3hKjRnTB0nZizapF",
@@ -691,7 +691,7 @@
       "stagePos": 2,
       "source": null,
       "created": "2026-04-06",
-      "days": 39
+      "days": 40
     },
     {
       "id": "0f1hcOFU04SPhUW1jh54",
@@ -916,7 +916,7 @@
       "stagePos": 1,
       "source": "Past Clients",
       "created": "2026-04-30",
-      "days": 15
+      "days": 16
     },
     {
       "id": "Urcl8OZYQjrTqAMUlVY8",
@@ -1141,7 +1141,7 @@
       "stagePos": 1,
       "source": "Cold Calling",
       "created": "2026-04-24",
-      "days": 21
+      "days": 22
     },
     {
       "id": "gL6c0OuRkvjX8HaXfbSA",
@@ -1156,7 +1156,7 @@
       "stagePos": 2,
       "source": "Cold call first ass. who passed it to Josh and he called me",
       "created": "2026-04-24",
-      "days": 21
+      "days": 22
     },
     {
       "id": "CVd5ELDvm6NYI66DbUff",
@@ -1201,7 +1201,7 @@
       "stagePos": 1,
       "source": "Cold Call",
       "created": "2026-04-23",
-      "days": 22
+      "days": 23
     },
     {
       "id": "ECCl3DYhwG9jlrQAUSbw",
@@ -2026,7 +2026,7 @@
       "stagePos": 3,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-05-13",
-      "days": 2
+      "days": 3
     },
     {
       "id": "J9ifq30WiPTQB4aToddp",
@@ -2041,7 +2041,7 @@
       "stagePos": 1,
       "source": "quote inquiry form website",
       "created": "2026-05-13",
-      "days": 2
+      "days": 3
     },
     {
       "id": "no0G1M9FwhnpC1DEoYql",
@@ -2056,7 +2056,7 @@
       "stagePos": 10,
       "source": null,
       "created": "2026-05-13",
-      "days": 2
+      "days": 3
     },
     {
       "id": "AvkxVv6kxB9VybfkJD4y",
@@ -2101,7 +2101,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-05-12",
-      "days": 3
+      "days": 4
     },
     {
       "id": "OgO9TCe7IJtTtB9RYFf1",
@@ -2191,7 +2191,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-05-07",
-      "days": 8
+      "days": 9
     },
     {
       "id": "28BrEcyfsEGRvdGwijoA",
@@ -2206,7 +2206,7 @@
       "stagePos": 7,
       "source": "SMS",
       "created": "2026-05-06",
-      "days": 9
+      "days": 10
     },
     {
       "id": "C0R0JEjTF3N9T0yxXLIj",
@@ -2461,7 +2461,7 @@
       "stagePos": 9,
       "source": null,
       "created": "2026-04-27",
-      "days": 18
+      "days": 19
     },
     {
       "id": "VJDFbBIhY03PKlB2WM05",
@@ -2566,7 +2566,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-04-23",
-      "days": 22
+      "days": 23
     },
     {
       "id": "KkYLzyphqfKWSLTzyTyM",
@@ -2656,7 +2656,7 @@
       "stagePos": 10,
       "source": null,
       "created": "2026-04-21",
-      "days": 24
+      "days": 25
     },
     {
       "id": "rE40LlDIlRwYfYVfqB54",
@@ -2746,7 +2746,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-16",
-      "days": 29
+      "days": 30
     },
     {
       "id": "cWrcmeLYELHjWXnaYL3a",
@@ -2866,7 +2866,7 @@
       "stagePos": 10,
       "source": null,
       "created": "2026-04-13",
-      "days": 32
+      "days": 33
     }
   ],
   "window_weekly": "May 09 \u2013 May 16, 2026",
@@ -2960,10 +2960,10 @@
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 4,
-        "sms": 32,
+        "calls": 8,
+        "sms": 49,
         "emails": 0,
-        "appointments": 0
+        "appointments": 2
       },
       {
         "name": "Blackwater AI",
@@ -2974,23 +2974,23 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 4,
-        "sms": 64,
+        "calls": 6,
+        "sms": 70,
         "emails": 0,
-        "appointments": 0
+        "appointments": 2
       },
       {
         "name": "Ivana Fulks",
         "calls": 2,
-        "sms": 21,
-        "emails": 5,
+        "sms": 34,
+        "emails": 6,
         "appointments": 0
       },
       {
         "name": "Maddie Baird",
-        "calls": 22,
-        "sms": 36,
-        "emails": 8,
+        "calls": 28,
+        "sms": 47,
+        "emails": 10,
         "appointments": 0
       },
       {
@@ -3361,6 +3361,13 @@
       "days_stale": 17
     },
     {
+      "name": "Daniel Reeves- Verde Home Builders",
+      "pipeline": "Partnership Development",
+      "stage": "Meeting Scheduled",
+      "assigned": "Allison  Pasch",
+      "days_stale": 17
+    },
+    {
       "name": "Tina Gregg",
       "pipeline": "Partnership Development",
       "stage": "Lead",
@@ -3385,13 +3392,6 @@
       "name": "Ron Mcguire- McGuire Custom Homes",
       "pipeline": "Partnership Development",
       "stage": "Two Way Conversation",
-      "assigned": "Allison  Pasch",
-      "days_stale": 16
-    },
-    {
-      "name": "Daniel Reeves- Verde Home Builders",
-      "pipeline": "Partnership Development",
-      "stage": "Meeting Scheduled",
       "assigned": "Allison  Pasch",
       "days_stale": 16
     },
@@ -3480,6 +3480,13 @@
       "days_stale": 14
     },
     {
+      "name": "Theret - Turf and Putting Green Quote",
+      "pipeline": "Residential Sales",
+      "stage": "Negotiation COLD",
+      "assigned": "Colin Corcoran",
+      "days_stale": 12
+    },
+    {
       "name": "Susan- bulldog construction ",
       "pipeline": "Partnership Development",
       "stage": "Lead",
@@ -3515,17 +3522,17 @@
       "days_stale": 11
     },
     {
-      "name": "Theret - Turf and Putting Green Quote",
-      "pipeline": "Residential Sales",
-      "stage": "Negotiation COLD",
-      "assigned": "Colin Corcoran",
-      "days_stale": 11
-    },
-    {
       "name": "Justin Bishop",
       "pipeline": "Partnership Development",
       "stage": "Lead",
       "assigned": "Troy  Fulks",
+      "days_stale": 10
+    },
+    {
+      "name": "Spicewood Ranch",
+      "pipeline": "Residential Sales",
+      "stage": "Negotiation HOT",
+      "assigned": "Colin Corcoran",
       "days_stale": 10
     },
     {
@@ -3541,13 +3548,6 @@
       "stage": "Negotiation COLD",
       "assigned": "Colin Corcoran",
       "days_stale": 10
-    },
-    {
-      "name": "Spicewood Ranch",
-      "pipeline": "Residential Sales",
-      "stage": "Negotiation HOT",
-      "assigned": "Colin Corcoran",
-      "days_stale": 9
     },
     {
       "name": "Brock - Decomposed Granite installation",
@@ -3603,23 +3603,43 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 0,
+        "leads": 220,
         "opportunities": 73
+      },
+      {
+        "source": "SMS",
+        "leads": 23,
+        "opportunities": 10
       },
       {
         "source": "Webform - TexasTurf USA website",
         "leads": 0,
-        "opportunities": 12
+        "opportunities": 11
       },
       {
-        "source": "SMS",
-        "leads": 0,
-        "opportunities": 10
+        "source": "Inbound Email",
+        "leads": 10,
+        "opportunities": 0
+      },
+      {
+        "source": "Quote Inquiry Form Website",
+        "leads": 10,
+        "opportunities": 0
+      },
+      {
+        "source": "Call",
+        "leads": 5,
+        "opportunities": 1
       },
       {
         "source": "Your Haven Event",
         "leads": 0,
         "opportunities": 5
+      },
+      {
+        "source": "chat widget",
+        "leads": 3,
+        "opportunities": 0
       },
       {
         "source": "Web Chat - TexasTurf USA website",
@@ -3697,11 +3717,6 @@
         "opportunities": 1
       },
       {
-        "source": "Call",
-        "leads": 0,
-        "opportunities": 1
-      },
-      {
         "source": "Jobber stale leads",
         "leads": 0,
         "opportunities": 1
@@ -3772,16 +3787,16 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 0
+    "total_contacts": 271
   },
   "monthly_sales_activity": {
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 14,
-        "sms": 50,
-        "emails": 8,
-        "appointments": 0
+        "calls": 25,
+        "sms": 76,
+        "emails": 11,
+        "appointments": 8
       },
       {
         "name": "Blackwater AI",
@@ -3792,23 +3807,23 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 4,
-        "sms": 96,
+        "calls": 6,
+        "sms": 111,
         "emails": 0,
-        "appointments": 0
+        "appointments": 12
       },
       {
         "name": "Ivana Fulks",
         "calls": 8,
-        "sms": 71,
-        "emails": 9,
+        "sms": 99,
+        "emails": 10,
         "appointments": 0
       },
       {
         "name": "Maddie Baird",
-        "calls": 38,
-        "sms": 74,
-        "emails": 10,
+        "calls": 49,
+        "sms": 94,
+        "emails": 13,
         "appointments": 0
       },
       {
@@ -3859,8 +3874,23 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 0,
+        "leads": 258,
         "opportunities": 84
+      },
+      {
+        "source": "SMS",
+        "leads": 39,
+        "opportunities": 11
+      },
+      {
+        "source": "Quote Inquiry Form Website",
+        "leads": 18,
+        "opportunities": 0
+      },
+      {
+        "source": "Inbound Email",
+        "leads": 17,
+        "opportunities": 0
       },
       {
         "source": "Webform - TexasTurf USA website",
@@ -3868,9 +3898,14 @@
         "opportunities": 14
       },
       {
-        "source": "SMS",
-        "leads": 0,
-        "opportunities": 11
+        "source": "Call",
+        "leads": 9,
+        "opportunities": 2
+      },
+      {
+        "source": "chat widget",
+        "leads": 7,
+        "opportunities": 0
       },
       {
         "source": "Your Haven Event",
@@ -3893,11 +3928,6 @@
         "opportunities": 3
       },
       {
-        "source": "Call",
-        "leads": 0,
-        "opportunities": 2
-      },
-      {
         "source": "Google",
         "leads": 0,
         "opportunities": 2
@@ -3911,6 +3941,11 @@
         "source": "Cold Call",
         "leads": 0,
         "opportunities": 2
+      },
+      {
+        "source": "Review - Ratings",
+        "leads": 1,
+        "opportunities": 0
       },
       {
         "source": "Stefan",
@@ -4043,7 +4078,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 0
+    "total_contacts": 349
   },
   "quarterly_salesperson": {
     "rows": [
@@ -4101,8 +4136,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-05-09T14:00:17.656948+00:00",
-      "window_end": "2026-05-16T14:00:17.656948+00:00",
+      "window_start": "2026-05-09T16:00:18.194897+00:00",
+      "window_end": "2026-05-16T16:00:18.194897+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4193,10 +4228,10 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 4,
-            "sms": 32,
+            "calls": 8,
+            "sms": 49,
             "emails": 0,
-            "appointments": 0
+            "appointments": 2
           },
           {
             "name": "Blackwater AI",
@@ -4207,23 +4242,23 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 4,
-            "sms": 64,
+            "calls": 6,
+            "sms": 70,
             "emails": 0,
-            "appointments": 0
+            "appointments": 2
           },
           {
             "name": "Ivana Fulks",
             "calls": 2,
-            "sms": 21,
-            "emails": 5,
+            "sms": 34,
+            "emails": 6,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 22,
-            "sms": 36,
-            "emails": 8,
+            "calls": 28,
+            "sms": 47,
+            "emails": 10,
             "appointments": 0
           },
           {
@@ -4274,8 +4309,13 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 0,
+            "leads": 57,
             "opportunities": 45
+          },
+          {
+            "source": "Quote Inquiry Form Website",
+            "leads": 4,
+            "opportunities": 0
           },
           {
             "source": "Webform - TexasTurf USA website",
@@ -4283,12 +4323,17 @@
             "opportunities": 4
           },
           {
-            "source": "past customer",
-            "leads": 0,
+            "source": "SMS",
+            "leads": 2,
             "opportunities": 1
           },
           {
-            "source": "SMS",
+            "source": "Inbound Email",
+            "leads": 2,
+            "opportunities": 0
+          },
+          {
+            "source": "past customer",
             "leads": 0,
             "opportunities": 1
           },
@@ -4298,7 +4343,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 0
+        "total_contacts": 65
       },
       "salesperson": {
         "rows": [
@@ -4356,8 +4401,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-16T14:00:17.656948+00:00",
-      "window_end": "2026-05-16T14:00:17.656948+00:00",
+      "window_start": "2026-04-16T16:00:18.194897+00:00",
+      "window_end": "2026-05-16T16:00:18.194897+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4414,7 +4459,7 @@
               },
               {
                 "name": "Maddie Baird",
-                "new": 11,
+                "new": 10,
                 "moved": 1,
                 "lost": 11,
                 "open": 3
@@ -4448,10 +4493,10 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 14,
-            "sms": 50,
-            "emails": 8,
-            "appointments": 0
+            "calls": 25,
+            "sms": 76,
+            "emails": 11,
+            "appointments": 8
           },
           {
             "name": "Blackwater AI",
@@ -4462,23 +4507,23 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 4,
-            "sms": 96,
+            "calls": 6,
+            "sms": 111,
             "emails": 0,
-            "appointments": 0
+            "appointments": 12
           },
           {
             "name": "Ivana Fulks",
             "calls": 8,
-            "sms": 71,
-            "emails": 9,
+            "sms": 99,
+            "emails": 10,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 38,
-            "sms": 74,
-            "emails": 10,
+            "calls": 49,
+            "sms": 94,
+            "emails": 13,
             "appointments": 0
           },
           {
@@ -4529,23 +4574,43 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 0,
+            "leads": 220,
             "opportunities": 73
+          },
+          {
+            "source": "SMS",
+            "leads": 23,
+            "opportunities": 10
           },
           {
             "source": "Webform - TexasTurf USA website",
             "leads": 0,
-            "opportunities": 12
+            "opportunities": 11
           },
           {
-            "source": "SMS",
-            "leads": 0,
-            "opportunities": 10
+            "source": "Inbound Email",
+            "leads": 10,
+            "opportunities": 0
+          },
+          {
+            "source": "Quote Inquiry Form Website",
+            "leads": 10,
+            "opportunities": 0
+          },
+          {
+            "source": "Call",
+            "leads": 5,
+            "opportunities": 1
           },
           {
             "source": "Your Haven Event",
             "leads": 0,
             "opportunities": 5
+          },
+          {
+            "source": "chat widget",
+            "leads": 3,
+            "opportunities": 0
           },
           {
             "source": "Web Chat - TexasTurf USA website",
@@ -4623,11 +4688,6 @@
             "opportunities": 1
           },
           {
-            "source": "Call",
-            "leads": 0,
-            "opportunities": 1
-          },
-          {
             "source": "Jobber stale leads",
             "leads": 0,
             "opportunities": 1
@@ -4698,7 +4758,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 0
+        "total_contacts": 271
       },
       "salesperson": {
         "rows": [
@@ -4725,10 +4785,10 @@
           },
           {
             "name": "Maddie Baird",
-            "created": 13,
+            "created": 12,
             "open": 5,
             "lost": 11,
-            "activities": 13
+            "activities": 12
           },
           {
             "name": "Stefan Fulks",
@@ -4757,7 +4817,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-16T14:00:17.656948+00:00",
+      "window_end": "2026-05-16T16:00:18.194897+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4848,10 +4908,10 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 14,
-            "sms": 50,
-            "emails": 8,
-            "appointments": 0
+            "calls": 25,
+            "sms": 76,
+            "emails": 11,
+            "appointments": 11
           },
           {
             "name": "Blackwater AI",
@@ -4862,23 +4922,23 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 4,
-            "sms": 114,
-            "emails": 4,
-            "appointments": 0
+            "calls": 6,
+            "sms": 136,
+            "emails": 5,
+            "appointments": 27
           },
           {
             "name": "Ivana Fulks",
             "calls": 10,
-            "sms": 79,
-            "emails": 9,
+            "sms": 107,
+            "emails": 10,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 48,
-            "sms": 74,
-            "emails": 12,
+            "calls": 63,
+            "sms": 94,
+            "emails": 15,
             "appointments": 0
           },
           {
@@ -4929,8 +4989,23 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 0,
+            "leads": 258,
             "opportunities": 84
+          },
+          {
+            "source": "SMS",
+            "leads": 39,
+            "opportunities": 11
+          },
+          {
+            "source": "Quote Inquiry Form Website",
+            "leads": 18,
+            "opportunities": 0
+          },
+          {
+            "source": "Inbound Email",
+            "leads": 17,
+            "opportunities": 0
           },
           {
             "source": "Webform - TexasTurf USA website",
@@ -4938,9 +5013,14 @@
             "opportunities": 14
           },
           {
-            "source": "SMS",
-            "leads": 0,
-            "opportunities": 11
+            "source": "Call",
+            "leads": 9,
+            "opportunities": 2
+          },
+          {
+            "source": "chat widget",
+            "leads": 7,
+            "opportunities": 0
           },
           {
             "source": "Your Haven Event",
@@ -4963,11 +5043,6 @@
             "opportunities": 3
           },
           {
-            "source": "Call",
-            "leads": 0,
-            "opportunities": 2
-          },
-          {
             "source": "Google",
             "leads": 0,
             "opportunities": 2
@@ -4981,6 +5056,11 @@
             "source": "Cold Call",
             "leads": 0,
             "opportunities": 2
+          },
+          {
+            "source": "Review - Ratings",
+            "leads": 1,
+            "opportunities": 0
           },
           {
             "source": "Stefan",
@@ -5113,7 +5193,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 0
+        "total_contacts": 349
       },
       "salesperson": {
         "rows": [
@@ -5172,7 +5252,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-16T14:00:17.656948+00:00",
+      "window_end": "2026-05-16T16:00:18.194897+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5263,10 +5343,10 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 14,
-            "sms": 50,
-            "emails": 8,
-            "appointments": 0
+            "calls": 25,
+            "sms": 76,
+            "emails": 11,
+            "appointments": 11
           },
           {
             "name": "Blackwater AI",
@@ -5277,24 +5357,24 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 4,
-            "sms": 136,
-            "emails": 6,
-            "appointments": 0
+            "calls": 6,
+            "sms": 169,
+            "emails": 8,
+            "appointments": 78
           },
           {
             "name": "Ivana Fulks",
             "calls": 20,
-            "sms": 153,
-            "emails": 9,
-            "appointments": 0
+            "sms": 181,
+            "emails": 10,
+            "appointments": 1
           },
           {
             "name": "Maddie Baird",
-            "calls": 60,
-            "sms": 158,
-            "emails": 18,
-            "appointments": 0
+            "calls": 78,
+            "sms": 209,
+            "emails": 24,
+            "appointments": 1
           },
           {
             "name": "Matt Dickert",
@@ -5344,8 +5424,33 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 0,
+            "leads": 463,
             "opportunities": 85
+          },
+          {
+            "source": "SMS",
+            "leads": 104,
+            "opportunities": 11
+          },
+          {
+            "source": "Quote Inquiry Form Website",
+            "leads": 50,
+            "opportunities": 0
+          },
+          {
+            "source": "Inbound Email",
+            "leads": 33,
+            "opportunities": 0
+          },
+          {
+            "source": "Call",
+            "leads": 19,
+            "opportunities": 2
+          },
+          {
+            "source": "chat widget",
+            "leads": 17,
+            "opportunities": 0
           },
           {
             "source": "Webform - TexasTurf USA website",
@@ -5353,14 +5458,14 @@
             "opportunities": 15
           },
           {
-            "source": "SMS",
-            "leads": 0,
-            "opportunities": 11
-          },
-          {
             "source": "Your Haven Event",
             "leads": 0,
             "opportunities": 5
+          },
+          {
+            "source": "Review - Ratings",
+            "leads": 4,
+            "opportunities": 0
           },
           {
             "source": "Web Chat - TexasTurf USA website",
@@ -5378,9 +5483,19 @@
             "opportunities": 3
           },
           {
-            "source": "Call",
-            "leads": 0,
-            "opportunities": 2
+            "source": "Automation Score Quiz",
+            "leads": 2,
+            "opportunities": 0
+          },
+          {
+            "source": "api v1",
+            "leads": 2,
+            "opportunities": 0
+          },
+          {
+            "source": "Facebook Messenger",
+            "leads": 2,
+            "opportunities": 0
           },
           {
             "source": "Google",
@@ -5396,6 +5511,16 @@
             "source": "Cold Call",
             "leads": 0,
             "opportunities": 2
+          },
+          {
+            "source": "Maintenance Form",
+            "leads": 1,
+            "opportunities": 0
+          },
+          {
+            "source": "Below 3 stars review",
+            "leads": 1,
+            "opportunities": 0
           },
           {
             "source": "Stefan",
@@ -5528,7 +5653,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 0
+        "total_contacts": 698
       },
       "salesperson": {
         "rows": [
