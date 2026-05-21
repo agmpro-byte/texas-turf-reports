@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21 10:01 UTC",
+  "generated_at": "2026-05-21 12:00 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -2985,7 +2985,7 @@
         "calls": 42,
         "sms": 88,
         "emails": 2,
-        "appointments": 3
+        "appointments": 0
       },
       {
         "name": "Ivana Fulks",
@@ -3688,18 +3688,8 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 222,
+        "leads": 0,
         "opportunities": 82
-      },
-      {
-        "source": "SMS",
-        "leads": 33,
-        "opportunities": 9
-      },
-      {
-        "source": "Inbound Email",
-        "leads": 12,
-        "opportunities": 0
       },
       {
         "source": "Webform - TexasTurf USA website",
@@ -3707,14 +3697,9 @@
         "opportunities": 10
       },
       {
-        "source": "Quote Inquiry Form Website",
-        "leads": 9,
-        "opportunities": 0
-      },
-      {
-        "source": "Call",
-        "leads": 6,
-        "opportunities": 1
+        "source": "SMS",
+        "leads": 0,
+        "opportunities": 9
       },
       {
         "source": "Past Jobber Leads",
@@ -3735,11 +3720,6 @@
         "source": "Cold Call",
         "leads": 0,
         "opportunities": 2
-      },
-      {
-        "source": "chat widget",
-        "leads": 1,
-        "opportunities": 0
       },
       {
         "source": "Stefan",
@@ -3788,6 +3768,11 @@
       },
       {
         "source": "cold call- google",
+        "leads": 0,
+        "opportunities": 1
+      },
+      {
+        "source": "Call",
         "leads": 0,
         "opportunities": 1
       },
@@ -3867,7 +3852,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 283
+    "total_contacts": 0
   },
   "monthly_sales_activity": {
     "rows": [
@@ -3876,7 +3861,7 @@
         "calls": 22,
         "sms": 12,
         "emails": 2,
-        "appointments": 7
+        "appointments": 0
       },
       {
         "name": "Blackwater AI",
@@ -3890,7 +3875,7 @@
         "calls": 42,
         "sms": 150,
         "emails": 4,
-        "appointments": 12
+        "appointments": 0
       },
       {
         "name": "Ivana Fulks",
@@ -3954,38 +3939,18 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 275,
+        "leads": 0,
         "opportunities": 89
       },
       {
         "source": "SMS",
-        "leads": 49,
+        "leads": 0,
         "opportunities": 12
-      },
-      {
-        "source": "Quote Inquiry Form Website",
-        "leads": 20,
-        "opportunities": 0
-      },
-      {
-        "source": "Inbound Email",
-        "leads": 19,
-        "opportunities": 0
-      },
-      {
-        "source": "Call",
-        "leads": 11,
-        "opportunities": 2
       },
       {
         "source": "Webform - TexasTurf USA website",
         "leads": 0,
         "opportunities": 10
-      },
-      {
-        "source": "chat widget",
-        "leads": 7,
-        "opportunities": 0
       },
       {
         "source": "Your Haven Event",
@@ -4008,6 +3973,11 @@
         "opportunities": 3
       },
       {
+        "source": "Call",
+        "leads": 0,
+        "opportunities": 2
+      },
+      {
         "source": "Google",
         "leads": 0,
         "opportunities": 2
@@ -4021,11 +3991,6 @@
         "source": "Cold Call",
         "leads": 0,
         "opportunities": 2
-      },
-      {
-        "source": "Review - Ratings",
-        "leads": 1,
-        "opportunities": 0
       },
       {
         "source": "Stefan",
@@ -4153,7 +4118,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 382
+    "total_contacts": 0
   },
   "quarterly_salesperson": {
     "rows": [
@@ -4211,8 +4176,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-05-14T10:00:25.302994+00:00",
-      "window_end": "2026-05-21T10:00:25.302994+00:00",
+      "window_start": "2026-05-14T12:00:20.267878+00:00",
+      "window_end": "2026-05-21T12:00:20.267878+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4313,7 +4278,7 @@
             "calls": 42,
             "sms": 88,
             "emails": 2,
-            "appointments": 3
+            "appointments": 0
           },
           {
             "name": "Ivana Fulks",
@@ -4377,23 +4342,8 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 27,
+            "leads": 0,
             "opportunities": 32
-          },
-          {
-            "source": "SMS",
-            "leads": 7,
-            "opportunities": 1
-          },
-          {
-            "source": "Inbound Email",
-            "leads": 3,
-            "opportunities": 0
-          },
-          {
-            "source": "Quote Inquiry Form Website",
-            "leads": 3,
-            "opportunities": 0
           },
           {
             "source": "Webform - TexasTurf USA website",
@@ -4401,9 +4351,9 @@
             "opportunities": 3
           },
           {
-            "source": "Call",
-            "leads": 2,
-            "opportunities": 0
+            "source": "SMS",
+            "leads": 0,
+            "opportunities": 1
           },
           {
             "source": "past customer",
@@ -4411,7 +4361,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 42
+        "total_contacts": 0
       },
       "salesperson": {
         "rows": [
@@ -4469,8 +4419,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-21T10:00:25.302994+00:00",
-      "window_end": "2026-05-21T10:00:25.302994+00:00",
+      "window_start": "2026-04-21T12:00:20.267878+00:00",
+      "window_end": "2026-05-21T12:00:20.267878+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4557,7 +4507,7 @@
             "calls": 22,
             "sms": 12,
             "emails": 2,
-            "appointments": 7
+            "appointments": 0
           },
           {
             "name": "Blackwater AI",
@@ -4571,7 +4521,7 @@
             "calls": 42,
             "sms": 150,
             "emails": 4,
-            "appointments": 12
+            "appointments": 0
           },
           {
             "name": "Ivana Fulks",
@@ -4635,18 +4585,8 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 222,
+            "leads": 0,
             "opportunities": 82
-          },
-          {
-            "source": "SMS",
-            "leads": 33,
-            "opportunities": 9
-          },
-          {
-            "source": "Inbound Email",
-            "leads": 12,
-            "opportunities": 0
           },
           {
             "source": "Webform - TexasTurf USA website",
@@ -4654,14 +4594,9 @@
             "opportunities": 10
           },
           {
-            "source": "Quote Inquiry Form Website",
-            "leads": 9,
-            "opportunities": 0
-          },
-          {
-            "source": "Call",
-            "leads": 6,
-            "opportunities": 1
+            "source": "SMS",
+            "leads": 0,
+            "opportunities": 9
           },
           {
             "source": "Past Jobber Leads",
@@ -4682,11 +4617,6 @@
             "source": "Cold Call",
             "leads": 0,
             "opportunities": 2
-          },
-          {
-            "source": "chat widget",
-            "leads": 1,
-            "opportunities": 0
           },
           {
             "source": "Stefan",
@@ -4735,6 +4665,11 @@
           },
           {
             "source": "cold call- google",
+            "leads": 0,
+            "opportunities": 1
+          },
+          {
+            "source": "Call",
             "leads": 0,
             "opportunities": 1
           },
@@ -4814,7 +4749,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 283
+        "total_contacts": 0
       },
       "salesperson": {
         "rows": [
@@ -4873,7 +4808,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-21T10:00:25.302994+00:00",
+      "window_end": "2026-05-21T12:00:20.267878+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4960,7 +4895,7 @@
             "calls": 22,
             "sms": 12,
             "emails": 2,
-            "appointments": 11
+            "appointments": 0
           },
           {
             "name": "Blackwater AI",
@@ -4974,7 +4909,7 @@
             "calls": 42,
             "sms": 180,
             "emails": 8,
-            "appointments": 29
+            "appointments": 0
           },
           {
             "name": "Ivana Fulks",
@@ -5038,38 +4973,18 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 275,
+            "leads": 0,
             "opportunities": 89
           },
           {
             "source": "SMS",
-            "leads": 49,
+            "leads": 0,
             "opportunities": 12
-          },
-          {
-            "source": "Quote Inquiry Form Website",
-            "leads": 20,
-            "opportunities": 0
-          },
-          {
-            "source": "Inbound Email",
-            "leads": 19,
-            "opportunities": 0
-          },
-          {
-            "source": "Call",
-            "leads": 11,
-            "opportunities": 2
           },
           {
             "source": "Webform - TexasTurf USA website",
             "leads": 0,
             "opportunities": 10
-          },
-          {
-            "source": "chat widget",
-            "leads": 7,
-            "opportunities": 0
           },
           {
             "source": "Your Haven Event",
@@ -5092,6 +5007,11 @@
             "opportunities": 3
           },
           {
+            "source": "Call",
+            "leads": 0,
+            "opportunities": 2
+          },
+          {
             "source": "Google",
             "leads": 0,
             "opportunities": 2
@@ -5105,11 +5025,6 @@
             "source": "Cold Call",
             "leads": 0,
             "opportunities": 2
-          },
-          {
-            "source": "Review - Ratings",
-            "leads": 1,
-            "opportunities": 0
           },
           {
             "source": "Stefan",
@@ -5237,7 +5152,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 382
+        "total_contacts": 0
       },
       "salesperson": {
         "rows": [
@@ -5296,7 +5211,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-21T10:00:25.302994+00:00",
+      "window_end": "2026-05-21T12:00:20.267878+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5383,7 +5298,7 @@
             "calls": 22,
             "sms": 12,
             "emails": 2,
-            "appointments": 11
+            "appointments": 0
           },
           {
             "name": "Blackwater AI",
@@ -5397,21 +5312,21 @@
             "calls": 42,
             "sms": 244,
             "emails": 8,
-            "appointments": 80
+            "appointments": 0
           },
           {
             "name": "Ivana Fulks",
             "calls": 24,
             "sms": 170,
             "emails": 4,
-            "appointments": 1
+            "appointments": 0
           },
           {
             "name": "Maddie Baird",
             "calls": 54,
             "sms": 149,
             "emails": 12,
-            "appointments": 1
+            "appointments": 0
           },
           {
             "name": "Matt Dickert",
