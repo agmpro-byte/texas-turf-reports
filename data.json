@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 04:01 UTC",
+  "generated_at": "2026-05-27 08:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -2983,13 +2983,13 @@
       {
         "name": "Ivana Fulks",
         "calls": 0,
-        "sms": 38,
+        "sms": 36,
         "emails": 0,
         "appointments": 0
       },
       {
         "name": "Maddie Baird",
-        "calls": 21,
+        "calls": 22,
         "sms": 102,
         "emails": 24,
         "appointments": 0
@@ -3882,13 +3882,13 @@
       {
         "name": "Ivana Fulks",
         "calls": 6,
-        "sms": 107,
+        "sms": 105,
         "emails": 6,
         "appointments": 0
       },
       {
         "name": "Maddie Baird",
-        "calls": 54,
+        "calls": 55,
         "sms": 204,
         "emails": 39,
         "appointments": 0
@@ -4193,8 +4193,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-05-20T04:00:16.412222+00:00",
-      "window_end": "2026-05-27T04:00:16.412222+00:00",
+      "window_start": "2026-05-20T08:00:18.214102+00:00",
+      "window_end": "2026-05-27T08:00:18.214102+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4293,13 +4293,13 @@
           {
             "name": "Ivana Fulks",
             "calls": 0,
-            "sms": 38,
+            "sms": 36,
             "emails": 0,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 21,
+            "calls": 22,
             "sms": 102,
             "emails": 24,
             "appointments": 0
@@ -4439,8 +4439,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-27T04:00:16.412222+00:00",
-      "window_end": "2026-05-27T04:00:16.412222+00:00",
+      "window_start": "2026-04-27T08:00:18.214102+00:00",
+      "window_end": "2026-05-27T08:00:18.214102+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4539,13 +4539,13 @@
           {
             "name": "Ivana Fulks",
             "calls": 6,
-            "sms": 107,
+            "sms": 105,
             "emails": 6,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 54,
+            "calls": 55,
             "sms": 204,
             "emails": 39,
             "appointments": 0
@@ -4781,7 +4781,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-27T04:00:16.412222+00:00",
+      "window_end": "2026-05-27T08:00:18.214102+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4880,13 +4880,13 @@
           {
             "name": "Ivana Fulks",
             "calls": 15,
-            "sms": 131,
+            "sms": 129,
             "emails": 6,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 54,
+            "calls": 55,
             "sms": 210,
             "emails": 39,
             "appointments": 0
@@ -5192,7 +5192,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-27T04:00:16.412222+00:00",
+      "window_end": "2026-05-27T08:00:18.214102+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5291,13 +5291,13 @@
           {
             "name": "Ivana Fulks",
             "calls": 36,
-            "sms": 257,
+            "sms": 255,
             "emails": 6,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 90,
+            "calls": 91,
             "sms": 297,
             "emails": 45,
             "appointments": 0
