@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 22:01 UTC",
+  "generated_at": "2026-05-28 00:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -496,7 +496,7 @@
       "stagePos": 1,
       "source": "SMS",
       "created": "2026-05-20",
-      "days": 6
+      "days": 7
     },
     {
       "id": "CaxZYZfMqAVwe22ahKxc",
@@ -1666,7 +1666,7 @@
       "stagePos": 10,
       "source": null,
       "created": "2026-05-20",
-      "days": 6
+      "days": 7
     },
     {
       "id": "AdTJY6z6AbZyFGVkV6yD",
@@ -2551,7 +2551,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-05-12",
-      "days": 14
+      "days": 15
     },
     {
       "id": "vSrGkwVbMGoc6Yb24yDx",
@@ -2821,7 +2821,7 @@
       "stagePos": 9,
       "source": null,
       "created": "2026-04-30",
-      "days": 26
+      "days": 27
     },
     {
       "id": "f95FADpiWVqdNYsWpPyw",
@@ -2884,7 +2884,7 @@
       "days": 29
     }
   ],
-  "window_weekly": "May 20 \u2013 May 27, 2026",
+  "window_weekly": "May 21 \u2013 May 28, 2026",
   "pipeline_opportunity": {
     "pipelines": [
       {
@@ -2893,7 +2893,7 @@
         "reps": [
           {
             "name": "Allison  Pasch",
-            "new": 1,
+            "new": 0,
             "moved": 0,
             "lost": 0,
             "open": 17
@@ -2928,8 +2928,8 @@
           {
             "name": "Colin Corcoran",
             "new": 6,
-            "moved": 18,
-            "lost": 6,
+            "moved": 17,
+            "lost": 5,
             "open": 23
           },
           {
@@ -2941,7 +2941,7 @@
           },
           {
             "name": "Maddie Baird",
-            "new": 10,
+            "new": 9,
             "moved": 4,
             "lost": 5,
             "open": 7
@@ -2975,9 +2975,9 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 24,
-        "sms": 180,
-        "emails": 22,
+        "calls": 18,
+        "sms": 144,
+        "emails": 18,
         "appointments": 6
       },
       {
@@ -2989,9 +2989,9 @@
       },
       {
         "name": "Maddie Baird",
-        "calls": 32,
-        "sms": 104,
-        "emails": 31,
+        "calls": 27,
+        "sms": 83,
+        "emails": 24,
         "appointments": 0
       },
       {
@@ -3017,7 +3017,7 @@
       },
       {
         "name": "Team TexasTurf",
-        "calls": 4,
+        "calls": 3,
         "sms": 0,
         "emails": 0,
         "appointments": 0
@@ -3044,7 +3044,7 @@
       "pipeline": "Commercial Sales",
       "stage": "Lead",
       "assigned": "Stefan Fulks",
-      "days_stale": 90
+      "days_stale": 91
     },
     {
       "name": "Sunshine Amenity",
@@ -3558,6 +3558,13 @@
       "days_stale": 14
     },
     {
+      "name": " - Backyard Patio Turf Installation",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Allison  Pasch",
+      "days_stale": 14
+    },
+    {
       "name": "Piteo - Black Basalt Installation",
       "pipeline": "Residential Sales",
       "stage": "Quote Approved - Won",
@@ -3573,13 +3580,6 @@
     },
     {
       "name": "McGuire - TexasTurf Installation: The Arlo",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Allison  Pasch",
-      "days_stale": 13
-    },
-    {
-      "name": " - Backyard Patio Turf Installation",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Allison  Pasch",
@@ -3621,6 +3621,13 @@
       "days_stale": 12
     },
     {
+      "name": "Gary Bartels",
+      "pipeline": "Residential Sales",
+      "stage": "Two Way Conversation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 10
+    },
+    {
       "name": "Wildley - TexasTurf Installation",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
@@ -3632,13 +3639,6 @@
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Unassigned",
-      "days_stale": 9
-    },
-    {
-      "name": "Gary Bartels",
-      "pipeline": "Residential Sales",
-      "stage": "Two Way Conversation",
-      "assigned": "Colin Corcoran",
       "days_stale": 9
     },
     {
@@ -3654,6 +3654,13 @@
       "stage": "Quote Sent",
       "assigned": "Unassigned",
       "days_stale": 8
+    },
+    {
+      "name": "Dave Hodges - Obedience Training Club",
+      "pipeline": "Commercial Sales",
+      "stage": "Two Way Conversation",
+      "assigned": "Allison  Pasch",
+      "days_stale": 7
     }
   ],
   "monthly_lead_source": {
@@ -3770,7 +3777,7 @@
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 13,
+        "calls": 12,
         "sms": 9,
         "emails": 0,
         "appointments": 5
@@ -3784,23 +3791,23 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 69,
-        "sms": 400,
-        "emails": 30,
+        "calls": 55,
+        "sms": 324,
+        "emails": 24,
         "appointments": 15
       },
       {
         "name": "Ivana Fulks",
         "calls": 6,
-        "sms": 104,
+        "sms": 105,
         "emails": 6,
         "appointments": 0
       },
       {
         "name": "Maddie Baird",
-        "calls": 71,
-        "sms": 253,
-        "emails": 49,
+        "calls": 60,
+        "sms": 218,
+        "emails": 39,
         "appointments": 0
       },
       {
@@ -3826,7 +3833,7 @@
       },
       {
         "name": "Team TexasTurf",
-        "calls": 15,
+        "calls": 12,
         "sms": 0,
         "emails": 0,
         "appointments": 0
@@ -4103,8 +4110,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-05-20T22:00:12.852487+00:00",
-      "window_end": "2026-05-27T22:00:12.852487+00:00",
+      "window_start": "2026-05-21T00:00:23.768110+00:00",
+      "window_end": "2026-05-28T00:00:23.768110+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4113,7 +4120,7 @@
             "reps": [
               {
                 "name": "Allison  Pasch",
-                "new": 1,
+                "new": 0,
                 "moved": 0,
                 "lost": 0,
                 "open": 17
@@ -4148,8 +4155,8 @@
               {
                 "name": "Colin Corcoran",
                 "new": 6,
-                "moved": 18,
-                "lost": 6,
+                "moved": 17,
+                "lost": 5,
                 "open": 23
               },
               {
@@ -4161,7 +4168,7 @@
               },
               {
                 "name": "Maddie Baird",
-                "new": 10,
+                "new": 9,
                 "moved": 4,
                 "lost": 5,
                 "open": 7
@@ -4195,9 +4202,9 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 24,
-            "sms": 180,
-            "emails": 22,
+            "calls": 18,
+            "sms": 144,
+            "emails": 18,
             "appointments": 6
           },
           {
@@ -4209,9 +4216,9 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 32,
-            "sms": 104,
-            "emails": 31,
+            "calls": 27,
+            "sms": 83,
+            "emails": 24,
             "appointments": 0
           },
           {
@@ -4237,7 +4244,7 @@
           },
           {
             "name": "Team TexasTurf",
-            "calls": 4,
+            "calls": 3,
             "sms": 0,
             "emails": 0,
             "appointments": 0
@@ -4262,8 +4269,8 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 25,
-            "opportunities": 13
+            "leads": 24,
+            "opportunities": 12
           },
           {
             "source": "Quote Inquiry Form Website",
@@ -4283,19 +4290,19 @@
           {
             "source": "SMS",
             "leads": 4,
-            "opportunities": 1
+            "opportunities": 0
           }
         ],
-        "total_contacts": 42
+        "total_contacts": 41
       },
       "salesperson": {
         "rows": [
           {
             "name": "Allison  Pasch",
-            "created": 2,
+            "created": 1,
             "open": 59,
             "lost": 0,
-            "activities": 2
+            "activities": 1
           },
           {
             "name": "Colin Corcoran",
@@ -4313,10 +4320,10 @@
           },
           {
             "name": "Maddie Baird",
-            "created": 10,
+            "created": 9,
             "open": 8,
             "lost": 13,
-            "activities": 10
+            "activities": 9
           },
           {
             "name": "Stefan Fulks",
@@ -4344,8 +4351,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-27T22:00:12.852487+00:00",
-      "window_end": "2026-05-27T22:00:12.852487+00:00",
+      "window_start": "2026-04-28T00:00:23.768110+00:00",
+      "window_end": "2026-05-28T00:00:23.768110+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4389,7 +4396,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 53,
-                "moved": 18,
+                "moved": 17,
                 "lost": 29,
                 "open": 23
               },
@@ -4422,7 +4429,7 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 13,
+            "calls": 12,
             "sms": 9,
             "emails": 0,
             "appointments": 5
@@ -4436,23 +4443,23 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 69,
-            "sms": 400,
-            "emails": 30,
+            "calls": 55,
+            "sms": 324,
+            "emails": 24,
             "appointments": 15
           },
           {
             "name": "Ivana Fulks",
             "calls": 6,
-            "sms": 104,
+            "sms": 105,
             "emails": 6,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 71,
-            "sms": 253,
-            "emails": 49,
+            "calls": 60,
+            "sms": 218,
+            "emails": 39,
             "appointments": 0
           },
           {
@@ -4478,7 +4485,7 @@
           },
           {
             "name": "Team TexasTurf",
-            "calls": 15,
+            "calls": 12,
             "sms": 0,
             "emails": 0,
             "appointments": 0
@@ -4666,7 +4673,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-27T22:00:12.852487+00:00",
+      "window_end": "2026-05-28T00:00:23.768110+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4710,7 +4717,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 53,
-                "moved": 18,
+                "moved": 17,
                 "lost": 29,
                 "open": 23
               },
@@ -4743,7 +4750,7 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 13,
+            "calls": 12,
             "sms": 9,
             "emails": 0,
             "appointments": 11
@@ -4757,23 +4764,23 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 69,
-            "sms": 528,
-            "emails": 38,
+            "calls": 55,
+            "sms": 435,
+            "emails": 30,
             "appointments": 35
           },
           {
             "name": "Ivana Fulks",
             "calls": 15,
-            "sms": 128,
+            "sms": 129,
             "emails": 6,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 79,
-            "sms": 261,
-            "emails": 49,
+            "calls": 66,
+            "sms": 227,
+            "emails": 39,
             "appointments": 0
           },
           {
@@ -4799,7 +4806,7 @@
           },
           {
             "name": "Team TexasTurf",
-            "calls": 15,
+            "calls": 12,
             "sms": 0,
             "emails": 0,
             "appointments": 0
@@ -5077,7 +5084,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-27T22:00:12.852487+00:00",
+      "window_end": "2026-05-28T00:00:23.768110+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5121,7 +5128,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 53,
-                "moved": 18,
+                "moved": 17,
                 "lost": 29,
                 "open": 23
               },
@@ -5154,7 +5161,7 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 13,
+            "calls": 12,
             "sms": 9,
             "emails": 0,
             "appointments": 11
@@ -5168,23 +5175,23 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 69,
-            "sms": 626,
-            "emails": 41,
+            "calls": 55,
+            "sms": 552,
+            "emails": 33,
             "appointments": 86
           },
           {
             "name": "Ivana Fulks",
-            "calls": 34,
-            "sms": 249,
+            "calls": 36,
+            "sms": 255,
             "emails": 6,
             "appointments": 1
           },
           {
             "name": "Maddie Baird",
-            "calls": 111,
-            "sms": 343,
-            "emails": 56,
+            "calls": 102,
+            "sms": 314,
+            "emails": 45,
             "appointments": 1
           },
           {
@@ -5210,7 +5217,7 @@
           },
           {
             "name": "Team TexasTurf",
-            "calls": 15,
+            "calls": 12,
             "sms": 0,
             "emails": 0,
             "appointments": 0
