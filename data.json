@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 08:00 UTC",
+  "generated_at": "2026-06-06 10:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -3845,7 +3845,7 @@
       },
       {
         "name": "Maddie Baird",
-        "calls": 49,
+        "calls": 50,
         "sms": 165,
         "emails": 22,
         "appointments": 0
@@ -4145,8 +4145,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-05-30T08:00:17.933668+00:00",
-      "window_end": "2026-06-06T08:00:17.933668+00:00",
+      "window_start": "2026-05-30T10:00:32.800581+00:00",
+      "window_end": "2026-06-06T10:00:32.800581+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4391,8 +4391,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-05-07T08:00:17.933668+00:00",
-      "window_end": "2026-06-06T08:00:17.933668+00:00",
+      "window_start": "2026-05-07T10:00:32.800581+00:00",
+      "window_end": "2026-06-06T10:00:32.800581+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4497,7 +4497,7 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 49,
+            "calls": 50,
             "sms": 165,
             "emails": 22,
             "appointments": 0
@@ -4658,7 +4658,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-06-06T08:00:17.933668+00:00",
+      "window_end": "2026-06-06T10:00:32.800581+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4763,7 +4763,7 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 57,
+            "calls": 58,
             "sms": 196,
             "emails": 24,
             "appointments": 0
@@ -5064,7 +5064,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-06-06T08:00:17.933668+00:00",
+      "window_end": "2026-06-06T10:00:32.800581+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5169,10 +5169,10 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 77,
+            "calls": 78,
             "sms": 240,
             "emails": 28,
-            "appointments": 0
+            "appointments": 1
           },
           {
             "name": "Matt Dickert",
