@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06 04:00 UTC",
+  "generated_at": "2026-06-06 08:00 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1576,7 +1576,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-05-29",
-      "days": 7
+      "days": 8
     },
     {
       "id": "7NEAQDiUyqDv9YsmARNd",
@@ -3730,6 +3730,13 @@
       "days_stale": 9
     },
     {
+      "name": "Sonia Ruiz",
+      "pipeline": "Residential Sales",
+      "stage": "Lead",
+      "assigned": "Maddie Baird",
+      "days_stale": 8
+    },
+    {
       "name": "David Garza- NH 61 Sun City",
       "pipeline": "Commercial Sales",
       "stage": "Design Preparation",
@@ -3749,21 +3756,29 @@
       "stage": "Lead",
       "assigned": "Allison  Pasch",
       "days_stale": 7
-    },
-    {
-      "name": "Sonia Ruiz",
-      "pipeline": "Residential Sales",
-      "stage": "Lead",
-      "assigned": "Maddie Baird",
-      "days_stale": 7
     }
   ],
   "monthly_lead_source": {
     "rows": [
       {
         "source": "(none)",
-        "leads": 0,
+        "leads": 143,
         "opportunities": 80
+      },
+      {
+        "source": "SMS",
+        "leads": 22,
+        "opportunities": 4
+      },
+      {
+        "source": "Inbound Email",
+        "leads": 16,
+        "opportunities": 0
+      },
+      {
+        "source": "Quote Inquiry Form Website",
+        "leads": 15,
+        "opportunities": 0
       },
       {
         "source": "Webform - TexasTurf USA website",
@@ -3771,9 +3786,9 @@
         "opportunities": 14
       },
       {
-        "source": "SMS",
-        "leads": 0,
-        "opportunities": 4
+        "source": "Call",
+        "leads": 6,
+        "opportunities": 0
       },
       {
         "source": "Past client list",
@@ -3796,7 +3811,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 0
+    "total_contacts": 202
   },
   "monthly_sales_activity": {
     "rows": [
@@ -3830,7 +3845,7 @@
       },
       {
         "name": "Maddie Baird",
-        "calls": 50,
+        "calls": 49,
         "sms": 165,
         "emails": 22,
         "appointments": 0
@@ -3883,8 +3898,28 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 0,
+        "leads": 329,
         "opportunities": 96
+      },
+      {
+        "source": "SMS",
+        "leads": 58,
+        "opportunities": 9
+      },
+      {
+        "source": "Inbound Email",
+        "leads": 31,
+        "opportunities": 0
+      },
+      {
+        "source": "Quote Inquiry Form Website",
+        "leads": 29,
+        "opportunities": 0
+      },
+      {
+        "source": "Call",
+        "leads": 13,
+        "opportunities": 2
       },
       {
         "source": "Webform - TexasTurf USA website",
@@ -3892,9 +3927,9 @@
         "opportunities": 14
       },
       {
-        "source": "SMS",
-        "leads": 0,
-        "opportunities": 9
+        "source": "chat widget",
+        "leads": 7,
+        "opportunities": 0
       },
       {
         "source": "Your Haven Event",
@@ -3912,11 +3947,6 @@
         "opportunities": 3
       },
       {
-        "source": "Call",
-        "leads": 0,
-        "opportunities": 2
-      },
-      {
         "source": "Google",
         "leads": 0,
         "opportunities": 2
@@ -3930,6 +3960,11 @@
         "source": "Cold Call",
         "leads": 0,
         "opportunities": 2
+      },
+      {
+        "source": "Review - Ratings",
+        "leads": 1,
+        "opportunities": 0
       },
       {
         "source": "Stefan",
@@ -4052,7 +4087,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 0
+    "total_contacts": 468
   },
   "quarterly_salesperson": {
     "rows": [
@@ -4110,8 +4145,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-05-30T04:00:16.168094+00:00",
-      "window_end": "2026-06-06T04:00:16.168094+00:00",
+      "window_start": "2026-05-30T08:00:17.933668+00:00",
+      "window_end": "2026-06-06T08:00:17.933668+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4269,8 +4304,23 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 0,
+            "leads": 26,
             "opportunities": 7
+          },
+          {
+            "source": "Inbound Email",
+            "leads": 3,
+            "opportunities": 0
+          },
+          {
+            "source": "Call",
+            "leads": 2,
+            "opportunities": 0
+          },
+          {
+            "source": "Quote Inquiry Form Website",
+            "leads": 1,
+            "opportunities": 0
           },
           {
             "source": "SMS",
@@ -4283,7 +4333,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 0
+        "total_contacts": 32
       },
       "salesperson": {
         "rows": [
@@ -4341,8 +4391,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-05-07T04:00:16.168094+00:00",
-      "window_end": "2026-06-06T04:00:16.168094+00:00",
+      "window_start": "2026-05-07T08:00:17.933668+00:00",
+      "window_end": "2026-06-06T08:00:17.933668+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4447,7 +4497,7 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 50,
+            "calls": 49,
             "sms": 165,
             "emails": 22,
             "appointments": 0
@@ -4500,8 +4550,23 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 0,
+            "leads": 143,
             "opportunities": 80
+          },
+          {
+            "source": "SMS",
+            "leads": 22,
+            "opportunities": 4
+          },
+          {
+            "source": "Inbound Email",
+            "leads": 16,
+            "opportunities": 0
+          },
+          {
+            "source": "Quote Inquiry Form Website",
+            "leads": 15,
+            "opportunities": 0
           },
           {
             "source": "Webform - TexasTurf USA website",
@@ -4509,9 +4574,9 @@
             "opportunities": 14
           },
           {
-            "source": "SMS",
-            "leads": 0,
-            "opportunities": 4
+            "source": "Call",
+            "leads": 6,
+            "opportunities": 0
           },
           {
             "source": "Past client list",
@@ -4534,7 +4599,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 0
+        "total_contacts": 202
       },
       "salesperson": {
         "rows": [
@@ -4593,7 +4658,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-06-06T04:00:16.168094+00:00",
+      "window_end": "2026-06-06T08:00:17.933668+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4698,7 +4763,7 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 58,
+            "calls": 57,
             "sms": 196,
             "emails": 24,
             "appointments": 0
@@ -4751,8 +4816,28 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 0,
+            "leads": 329,
             "opportunities": 96
+          },
+          {
+            "source": "SMS",
+            "leads": 58,
+            "opportunities": 9
+          },
+          {
+            "source": "Inbound Email",
+            "leads": 31,
+            "opportunities": 0
+          },
+          {
+            "source": "Quote Inquiry Form Website",
+            "leads": 29,
+            "opportunities": 0
+          },
+          {
+            "source": "Call",
+            "leads": 13,
+            "opportunities": 2
           },
           {
             "source": "Webform - TexasTurf USA website",
@@ -4760,9 +4845,9 @@
             "opportunities": 14
           },
           {
-            "source": "SMS",
-            "leads": 0,
-            "opportunities": 9
+            "source": "chat widget",
+            "leads": 7,
+            "opportunities": 0
           },
           {
             "source": "Your Haven Event",
@@ -4780,11 +4865,6 @@
             "opportunities": 3
           },
           {
-            "source": "Call",
-            "leads": 0,
-            "opportunities": 2
-          },
-          {
             "source": "Google",
             "leads": 0,
             "opportunities": 2
@@ -4798,6 +4878,11 @@
             "source": "Cold Call",
             "leads": 0,
             "opportunities": 2
+          },
+          {
+            "source": "Review - Ratings",
+            "leads": 1,
+            "opportunities": 0
           },
           {
             "source": "Stefan",
@@ -4920,7 +5005,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 0
+        "total_contacts": 468
       },
       "salesperson": {
         "rows": [
@@ -4979,7 +5064,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-06-06T04:00:16.168094+00:00",
+      "window_end": "2026-06-06T08:00:17.933668+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5084,7 +5169,7 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 78,
+            "calls": 77,
             "sms": 240,
             "emails": 28,
             "appointments": 0
@@ -5137,8 +5222,33 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 0,
+            "leads": 534,
             "opportunities": 97
+          },
+          {
+            "source": "SMS",
+            "leads": 123,
+            "opportunities": 9
+          },
+          {
+            "source": "Quote Inquiry Form Website",
+            "leads": 61,
+            "opportunities": 0
+          },
+          {
+            "source": "Inbound Email",
+            "leads": 47,
+            "opportunities": 0
+          },
+          {
+            "source": "Call",
+            "leads": 23,
+            "opportunities": 2
+          },
+          {
+            "source": "chat widget",
+            "leads": 17,
+            "opportunities": 0
           },
           {
             "source": "Webform - TexasTurf USA website",
@@ -5146,14 +5256,14 @@
             "opportunities": 15
           },
           {
-            "source": "SMS",
-            "leads": 0,
-            "opportunities": 9
-          },
-          {
             "source": "Your Haven Event",
             "leads": 0,
             "opportunities": 5
+          },
+          {
+            "source": "Review - Ratings",
+            "leads": 4,
+            "opportunities": 0
           },
           {
             "source": "Past Jobber Leads",
@@ -5166,9 +5276,19 @@
             "opportunities": 3
           },
           {
-            "source": "Call",
-            "leads": 0,
-            "opportunities": 2
+            "source": "Automation Score Quiz",
+            "leads": 2,
+            "opportunities": 0
+          },
+          {
+            "source": "api v1",
+            "leads": 2,
+            "opportunities": 0
+          },
+          {
+            "source": "Facebook Messenger",
+            "leads": 2,
+            "opportunities": 0
           },
           {
             "source": "Google",
@@ -5184,6 +5304,16 @@
             "source": "Cold Call",
             "leads": 0,
             "opportunities": 2
+          },
+          {
+            "source": "Maintenance Form",
+            "leads": 1,
+            "opportunities": 0
+          },
+          {
+            "source": "Below 3 stars review",
+            "leads": 1,
+            "opportunities": 0
           },
           {
             "source": "Stefan",
@@ -5306,7 +5436,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 0
+        "total_contacts": 817
       },
       "salesperson": {
         "rows": [
