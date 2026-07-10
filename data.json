@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 04:01 UTC",
+  "generated_at": "2026-07-10 06:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -2337,7 +2337,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-05-29",
-      "days": 41
+      "days": 42
     },
     {
       "id": "7NEAQDiUyqDv9YsmARNd",
@@ -3864,8 +3864,8 @@
       },
       {
         "name": "Ivana Fulks",
-        "calls": 52,
-        "sms": 222,
+        "calls": 48,
+        "sms": 213,
         "emails": 28,
         "appointments": 0
       },
@@ -3976,8 +3976,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-07-03T04:00:38.438824+00:00",
-      "window_end": "2026-07-10T04:00:38.438824+00:00",
+      "window_start": "2026-07-03T06:00:32.163742+00:00",
+      "window_end": "2026-07-10T06:00:32.163742+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4172,8 +4172,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-06-10T04:00:38.438824+00:00",
-      "window_end": "2026-07-10T04:00:38.438824+00:00",
+      "window_start": "2026-06-10T06:00:32.163742+00:00",
+      "window_end": "2026-07-10T06:00:32.163742+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4271,8 +4271,8 @@
           },
           {
             "name": "Ivana Fulks",
-            "calls": 52,
-            "sms": 222,
+            "calls": 48,
+            "sms": 213,
             "emails": 28,
             "appointments": 0
           },
@@ -4384,7 +4384,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-07-01T00:00:00+00:00",
-      "window_end": "2026-07-10T04:00:38.438824+00:00",
+      "window_end": "2026-07-10T06:00:32.163742+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4595,7 +4595,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-07-10T04:00:38.438824+00:00",
+      "window_end": "2026-07-10T06:00:32.163742+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4693,8 +4693,8 @@
           },
           {
             "name": "Ivana Fulks",
-            "calls": 70,
-            "sms": 366,
+            "calls": 65,
+            "sms": 352,
             "emails": 34,
             "appointments": 0
           },
