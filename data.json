@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24 08:01 UTC",
+  "generated_at": "2026-07-24 10:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -3047,15 +3047,15 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 61,
-        "emails": 12,
+        "sms": 87,
+        "emails": 11,
         "appointments": 2
       },
       {
         "name": "Ivana Fulks",
-        "calls": 28,
-        "sms": 90,
-        "emails": 14,
+        "calls": 33,
+        "sms": 93,
+        "emails": 18,
         "appointments": 1
       },
       {
@@ -3923,16 +3923,16 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 6,
-        "sms": 193,
-        "emails": 22,
+        "calls": 11,
+        "sms": 309,
+        "emails": 28,
         "appointments": 11
       },
       {
         "name": "Ivana Fulks",
-        "calls": 74,
-        "sms": 248,
-        "emails": 31,
+        "calls": 111,
+        "sms": 314,
+        "emails": 42,
         "appointments": 1
       },
       {
@@ -4052,8 +4052,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-07-17T08:00:30.815696+00:00",
-      "window_end": "2026-07-24T08:00:30.815696+00:00",
+      "window_start": "2026-07-17T10:00:15.176229+00:00",
+      "window_end": "2026-07-24T10:00:15.176229+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4145,15 +4145,15 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 61,
-            "emails": 12,
+            "sms": 87,
+            "emails": 11,
             "appointments": 2
           },
           {
             "name": "Ivana Fulks",
-            "calls": 28,
-            "sms": 90,
-            "emails": 14,
+            "calls": 33,
+            "sms": 93,
+            "emails": 18,
             "appointments": 1
           },
           {
@@ -4253,8 +4253,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-06-24T08:00:30.815696+00:00",
-      "window_end": "2026-07-24T08:00:30.815696+00:00",
+      "window_start": "2026-06-24T10:00:15.176229+00:00",
+      "window_end": "2026-07-24T10:00:15.176229+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4345,16 +4345,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 6,
-            "sms": 193,
-            "emails": 22,
+            "calls": 11,
+            "sms": 309,
+            "emails": 28,
             "appointments": 11
           },
           {
             "name": "Ivana Fulks",
-            "calls": 74,
-            "sms": 248,
-            "emails": 31,
+            "calls": 111,
+            "sms": 314,
+            "emails": 42,
             "appointments": 1
           },
           {
@@ -4475,7 +4475,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-07-01T00:00:00+00:00",
-      "window_end": "2026-07-24T08:00:30.815696+00:00",
+      "window_end": "2026-07-24T10:00:15.176229+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4566,16 +4566,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 4,
-            "sms": 161,
-            "emails": 20,
+            "calls": 8,
+            "sms": 261,
+            "emails": 25,
             "appointments": 6
           },
           {
             "name": "Ivana Fulks",
-            "calls": 74,
-            "sms": 236,
-            "emails": 31,
+            "calls": 111,
+            "sms": 302,
+            "emails": 42,
             "appointments": 1
           },
           {
@@ -4696,7 +4696,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-07-24T08:00:30.815696+00:00",
+      "window_end": "2026-07-24T10:00:15.176229+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4787,16 +4787,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 22,
-            "sms": 287,
-            "emails": 32,
+            "calls": 42,
+            "sms": 495,
+            "emails": 48,
             "appointments": 109
           },
           {
             "name": "Ivana Fulks",
-            "calls": 95,
-            "sms": 425,
-            "emails": 40,
+            "calls": 132,
+            "sms": 491,
+            "emails": 52,
             "appointments": 3
           },
           {
@@ -4809,7 +4809,7 @@
           {
             "name": "Stefan Fulks",
             "calls": 0,
-            "sms": 2,
+            "sms": 4,
             "emails": 0,
             "appointments": 0
           },
