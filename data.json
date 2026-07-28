@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28 08:01 UTC",
+  "generated_at": "2026-07-28 10:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -3047,15 +3047,15 @@
       {
         "name": "Colin Corcoran",
         "calls": 4,
-        "sms": 130,
-        "emails": 17,
+        "sms": 137,
+        "emails": 20,
         "appointments": 3
       },
       {
         "name": "Ivana Fulks",
-        "calls": 37,
-        "sms": 124,
-        "emails": 21,
+        "calls": 42,
+        "sms": 133,
+        "emails": 23,
         "appointments": 1
       },
       {
@@ -3852,17 +3852,17 @@
         "opportunities": 4
       },
       {
+        "source": "Inbound Email",
+        "leads": 8,
+        "opportunities": 0
+      },
+      {
         "source": "Quote Inquiry Form Website",
         "leads": 7,
         "opportunities": 0
       },
       {
         "source": "Call",
-        "leads": 7,
-        "opportunities": 0
-      },
-      {
-        "source": "Inbound Email",
         "leads": 7,
         "opportunities": 0
       },
@@ -3882,7 +3882,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 117
+    "total_contacts": 118
   },
   "monthly_sales_activity": {
     "rows": [
@@ -3902,16 +3902,16 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 12,
-        "sms": 387,
+        "calls": 8,
+        "sms": 401,
         "emails": 28,
         "appointments": 8
       },
       {
         "name": "Ivana Fulks",
-        "calls": 100,
-        "sms": 283,
-        "emails": 51,
+        "calls": 107,
+        "sms": 302,
+        "emails": 57,
         "appointments": 1
       },
       {
@@ -3950,17 +3950,17 @@
         "opportunities": 4
       },
       {
+        "source": "Inbound Email",
+        "leads": 8,
+        "opportunities": 0
+      },
+      {
         "source": "Quote Inquiry Form Website",
         "leads": 7,
         "opportunities": 0
       },
       {
         "source": "Call",
-        "leads": 7,
-        "opportunities": 0
-      },
-      {
-        "source": "Inbound Email",
         "leads": 7,
         "opportunities": 0
       },
@@ -3980,7 +3980,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 109
+    "total_contacts": 110
   },
   "quarterly_salesperson": {
     "rows": [
@@ -4031,8 +4031,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-07-21T08:00:18.493179+00:00",
-      "window_end": "2026-07-28T08:00:18.493179+00:00",
+      "window_start": "2026-07-21T10:00:25.852442+00:00",
+      "window_end": "2026-07-28T10:00:25.852442+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4124,15 +4124,15 @@
           {
             "name": "Colin Corcoran",
             "calls": 4,
-            "sms": 130,
-            "emails": 17,
+            "sms": 137,
+            "emails": 20,
             "appointments": 3
           },
           {
             "name": "Ivana Fulks",
-            "calls": 37,
-            "sms": 124,
-            "emails": 21,
+            "calls": 42,
+            "sms": 133,
+            "emails": 23,
             "appointments": 1
           },
           {
@@ -4171,6 +4171,11 @@
             "opportunities": 1
           },
           {
+            "source": "Inbound Email",
+            "leads": 2,
+            "opportunities": 0
+          },
+          {
             "source": "Quote Inquiry Form Website",
             "leads": 2,
             "opportunities": 0
@@ -4184,14 +4189,9 @@
             "source": "Webform - TexasTurf USA website",
             "leads": 0,
             "opportunities": 2
-          },
-          {
-            "source": "Inbound Email",
-            "leads": 1,
-            "opportunities": 0
           }
         ],
-        "total_contacts": 29
+        "total_contacts": 30
       },
       "salesperson": {
         "rows": [
@@ -4242,8 +4242,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-06-28T08:00:18.493179+00:00",
-      "window_end": "2026-07-28T08:00:18.493179+00:00",
+      "window_start": "2026-06-28T10:00:25.852442+00:00",
+      "window_end": "2026-07-28T10:00:25.852442+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4334,16 +4334,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 12,
-            "sms": 387,
+            "calls": 8,
+            "sms": 401,
             "emails": 28,
             "appointments": 8
           },
           {
             "name": "Ivana Fulks",
-            "calls": 100,
-            "sms": 283,
-            "emails": 51,
+            "calls": 107,
+            "sms": 302,
+            "emails": 57,
             "appointments": 1
           },
           {
@@ -4382,17 +4382,17 @@
             "opportunities": 4
           },
           {
+            "source": "Inbound Email",
+            "leads": 8,
+            "opportunities": 0
+          },
+          {
             "source": "Quote Inquiry Form Website",
             "leads": 7,
             "opportunities": 0
           },
           {
             "source": "Call",
-            "leads": 7,
-            "opportunities": 0
-          },
-          {
-            "source": "Inbound Email",
             "leads": 7,
             "opportunities": 0
           },
@@ -4412,7 +4412,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 117
+        "total_contacts": 118
       },
       "salesperson": {
         "rows": [
@@ -4464,7 +4464,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-07-01T00:00:00+00:00",
-      "window_end": "2026-07-28T08:00:18.493179+00:00",
+      "window_end": "2026-07-28T10:00:25.852442+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4555,16 +4555,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 12,
-            "sms": 375,
+            "calls": 8,
+            "sms": 389,
             "emails": 28,
             "appointments": 8
           },
           {
             "name": "Ivana Fulks",
-            "calls": 100,
-            "sms": 279,
-            "emails": 51,
+            "calls": 107,
+            "sms": 298,
+            "emails": 57,
             "appointments": 1
           },
           {
@@ -4603,17 +4603,17 @@
             "opportunities": 4
           },
           {
+            "source": "Inbound Email",
+            "leads": 8,
+            "opportunities": 0
+          },
+          {
             "source": "Quote Inquiry Form Website",
             "leads": 7,
             "opportunities": 0
           },
           {
             "source": "Call",
-            "leads": 7,
-            "opportunities": 0
-          },
-          {
-            "source": "Inbound Email",
             "leads": 7,
             "opportunities": 0
           },
@@ -4633,7 +4633,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 109
+        "total_contacts": 110
       },
       "salesperson": {
         "rows": [
@@ -4685,7 +4685,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-07-28T08:00:18.493179+00:00",
+      "window_end": "2026-07-28T10:00:25.852442+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4763,8 +4763,8 @@
           {
             "name": "Allison  Pasch",
             "calls": 4,
-            "sms": 12,
-            "emails": 9,
+            "sms": 16,
+            "emails": 12,
             "appointments": 11
           },
           {
@@ -4776,16 +4776,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 38,
-            "sms": 677,
-            "emails": 50,
+            "calls": 40,
+            "sms": 737,
+            "emails": 56,
             "appointments": 111
           },
           {
             "name": "Ivana Fulks",
-            "calls": 126,
-            "sms": 528,
-            "emails": 59,
+            "calls": 133,
+            "sms": 549,
+            "emails": 65,
             "appointments": 3
           },
           {
@@ -4830,7 +4830,7 @@
           },
           {
             "source": "Inbound Email",
-            "leads": 65,
+            "leads": 66,
             "opportunities": 0
           },
           {
@@ -5039,7 +5039,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 1023
+        "total_contacts": 1024
       },
       "salesperson": {
         "rows": [
