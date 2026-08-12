@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 10:01 UTC",
+  "generated_at": "2026-08-12 12:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -3053,9 +3053,9 @@
       },
       {
         "name": "Ivana Fulks",
-        "calls": 45,
-        "sms": 85,
-        "emails": 9,
+        "calls": 44,
+        "sms": 86,
+        "emails": 8,
         "appointments": 0
       },
       {
@@ -3936,15 +3936,15 @@
       {
         "name": "Colin Corcoran",
         "calls": 42,
-        "sms": 183,
+        "sms": 186,
         "emails": 9,
         "appointments": 11
       },
       {
         "name": "Ivana Fulks",
-        "calls": 84,
-        "sms": 272,
-        "emails": 34,
+        "calls": 83,
+        "sms": 276,
+        "emails": 33,
         "appointments": 1
       },
       {
@@ -4069,8 +4069,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-08-05T10:00:13.352657+00:00",
-      "window_end": "2026-08-12T10:00:13.352657+00:00",
+      "window_start": "2026-08-05T12:00:25.086518+00:00",
+      "window_end": "2026-08-12T12:00:25.086518+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4168,9 +4168,9 @@
           },
           {
             "name": "Ivana Fulks",
-            "calls": 45,
-            "sms": 85,
-            "emails": 9,
+            "calls": 44,
+            "sms": 86,
+            "emails": 8,
             "appointments": 0
           },
           {
@@ -4295,8 +4295,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-07-13T10:00:13.352657+00:00",
-      "window_end": "2026-08-12T10:00:13.352657+00:00",
+      "window_start": "2026-07-13T12:00:25.086518+00:00",
+      "window_end": "2026-08-12T12:00:25.086518+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4388,15 +4388,15 @@
           {
             "name": "Colin Corcoran",
             "calls": 42,
-            "sms": 183,
+            "sms": 186,
             "emails": 9,
             "appointments": 11
           },
           {
             "name": "Ivana Fulks",
-            "calls": 84,
-            "sms": 272,
-            "emails": 34,
+            "calls": 83,
+            "sms": 276,
+            "emails": 33,
             "appointments": 1
           },
           {
@@ -4522,7 +4522,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-07-01T00:00:00+00:00",
-      "window_end": "2026-08-12T10:00:13.352657+00:00",
+      "window_end": "2026-08-12T12:00:25.086518+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4614,15 +4614,15 @@
           {
             "name": "Colin Corcoran",
             "calls": 42,
-            "sms": 187,
+            "sms": 192,
             "emails": 9,
             "appointments": 13
           },
           {
             "name": "Ivana Fulks",
-            "calls": 84,
-            "sms": 278,
-            "emails": 39,
+            "calls": 83,
+            "sms": 282,
+            "emails": 38,
             "appointments": 1
           },
           {
@@ -4748,7 +4748,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-08-12T10:00:13.352657+00:00",
+      "window_end": "2026-08-12T12:00:25.086518+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4826,8 +4826,8 @@
           {
             "name": "Allison  Pasch",
             "calls": 2,
-            "sms": 11,
-            "emails": 6,
+            "sms": 12,
+            "emails": 8,
             "appointments": 11
           },
           {
@@ -4840,15 +4840,15 @@
           {
             "name": "Colin Corcoran",
             "calls": 42,
-            "sms": 205,
+            "sms": 210,
             "emails": 9,
             "appointments": 116
           },
           {
             "name": "Ivana Fulks",
-            "calls": 94,
-            "sms": 380,
-            "emails": 43,
+            "calls": 93,
+            "sms": 384,
+            "emails": 42,
             "appointments": 3
           },
           {
