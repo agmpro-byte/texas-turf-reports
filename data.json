@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16 06:01 UTC",
+  "generated_at": "2026-08-16 08:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -3053,8 +3053,8 @@
       },
       {
         "name": "Ivana Fulks",
-        "calls": 30,
-        "sms": 88,
+        "calls": 26,
+        "sms": 84,
         "emails": 4,
         "appointments": 0
       },
@@ -3970,16 +3970,16 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 32,
-        "sms": 101,
-        "emails": 6,
+        "calls": 35,
+        "sms": 95,
+        "emails": 5,
         "appointments": 9
       },
       {
         "name": "Ivana Fulks",
-        "calls": 72,
-        "sms": 227,
-        "emails": 23,
+        "calls": 64,
+        "sms": 212,
+        "emails": 19,
         "appointments": 1
       },
       {
@@ -4104,8 +4104,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-08-09T06:00:26.851853+00:00",
-      "window_end": "2026-08-16T06:00:26.851853+00:00",
+      "window_start": "2026-08-09T08:00:20.998753+00:00",
+      "window_end": "2026-08-16T08:00:20.998753+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4203,8 +4203,8 @@
           },
           {
             "name": "Ivana Fulks",
-            "calls": 30,
-            "sms": 88,
+            "calls": 26,
+            "sms": 84,
             "emails": 4,
             "appointments": 0
           },
@@ -4315,8 +4315,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-07-17T06:00:26.851853+00:00",
-      "window_end": "2026-08-16T06:00:26.851853+00:00",
+      "window_start": "2026-07-17T08:00:20.998753+00:00",
+      "window_end": "2026-08-16T08:00:20.998753+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4407,16 +4407,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 32,
-            "sms": 101,
-            "emails": 6,
+            "calls": 35,
+            "sms": 95,
+            "emails": 5,
             "appointments": 9
           },
           {
             "name": "Ivana Fulks",
-            "calls": 72,
-            "sms": 227,
-            "emails": 23,
+            "calls": 64,
+            "sms": 212,
+            "emails": 19,
             "appointments": 1
           },
           {
@@ -4542,7 +4542,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-07-01T00:00:00+00:00",
-      "window_end": "2026-08-16T06:00:26.851853+00:00",
+      "window_end": "2026-08-16T08:00:20.998753+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4633,16 +4633,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 32,
-            "sms": 110,
-            "emails": 6,
+            "calls": 35,
+            "sms": 101,
+            "emails": 5,
             "appointments": 13
           },
           {
             "name": "Ivana Fulks",
-            "calls": 78,
-            "sms": 245,
-            "emails": 27,
+            "calls": 68,
+            "sms": 230,
+            "emails": 23,
             "appointments": 1
           },
           {
@@ -4768,7 +4768,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-08-16T06:00:26.851853+00:00",
+      "window_end": "2026-08-16T08:00:20.998753+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4859,16 +4859,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 32,
-            "sms": 128,
-            "emails": 6,
+            "calls": 35,
+            "sms": 113,
+            "emails": 5,
             "appointments": 116
           },
           {
             "name": "Ivana Fulks",
-            "calls": 92,
-            "sms": 357,
-            "emails": 31,
+            "calls": 82,
+            "sms": 342,
+            "emails": 27,
             "appointments": 3
           },
           {
