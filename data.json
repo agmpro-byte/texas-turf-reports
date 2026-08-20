@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20 04:01 UTC",
+  "generated_at": "2026-08-20 06:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -2862,7 +2862,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-05-29",
-      "days": 82
+      "days": 83
     },
     {
       "id": "7NEAQDiUyqDv9YsmARNd",
@@ -3032,7 +3032,7 @@
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 8,
+        "calls": 7,
         "sms": 4,
         "emails": 0,
         "appointments": 0
@@ -3046,16 +3046,16 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 4,
-        "sms": 36,
-        "emails": 8,
+        "calls": 3,
+        "sms": 32,
+        "emails": 6,
         "appointments": 0
       },
       {
         "name": "Ivana Fulks",
-        "calls": 44,
-        "sms": 148,
-        "emails": 24,
+        "calls": 42,
+        "sms": 119,
+        "emails": 21,
         "appointments": 0
       },
       {
@@ -3914,7 +3914,7 @@
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 8,
+        "calls": 7,
         "sms": 4,
         "emails": 0,
         "appointments": 0
@@ -3928,16 +3928,16 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 32,
-        "sms": 152,
-        "emails": 8,
+        "calls": 31,
+        "sms": 146,
+        "emails": 6,
         "appointments": 8
       },
       {
         "name": "Ivana Fulks",
-        "calls": 104,
-        "sms": 432,
-        "emails": 40,
+        "calls": 98,
+        "sms": 372,
+        "emails": 37,
         "appointments": 1
       },
       {
@@ -4062,8 +4062,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-08-13T04:00:21.333234+00:00",
-      "window_end": "2026-08-20T04:00:21.333234+00:00",
+      "window_start": "2026-08-13T06:00:29.351095+00:00",
+      "window_end": "2026-08-20T06:00:29.351095+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4140,7 +4140,7 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 8,
+            "calls": 7,
             "sms": 4,
             "emails": 0,
             "appointments": 0
@@ -4154,16 +4154,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 4,
-            "sms": 36,
-            "emails": 8,
+            "calls": 3,
+            "sms": 32,
+            "emails": 6,
             "appointments": 0
           },
           {
             "name": "Ivana Fulks",
-            "calls": 44,
-            "sms": 148,
-            "emails": 24,
+            "calls": 42,
+            "sms": 119,
+            "emails": 21,
             "appointments": 0
           },
           {
@@ -4283,8 +4283,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-07-21T04:00:21.333234+00:00",
-      "window_end": "2026-08-20T04:00:21.333234+00:00",
+      "window_start": "2026-07-21T06:00:29.351095+00:00",
+      "window_end": "2026-08-20T06:00:29.351095+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4361,7 +4361,7 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 8,
+            "calls": 7,
             "sms": 4,
             "emails": 0,
             "appointments": 0
@@ -4375,16 +4375,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 32,
-            "sms": 152,
-            "emails": 8,
+            "calls": 31,
+            "sms": 146,
+            "emails": 6,
             "appointments": 8
           },
           {
             "name": "Ivana Fulks",
-            "calls": 104,
-            "sms": 432,
-            "emails": 40,
+            "calls": 98,
+            "sms": 372,
+            "emails": 37,
             "appointments": 1
           },
           {
@@ -4510,7 +4510,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-07-01T00:00:00+00:00",
-      "window_end": "2026-08-20T04:00:21.333234+00:00",
+      "window_end": "2026-08-20T06:00:29.351095+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4587,7 +4587,7 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 8,
+            "calls": 7,
             "sms": 4,
             "emails": 0,
             "appointments": 0
@@ -4601,16 +4601,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 32,
-            "sms": 168,
-            "emails": 8,
+            "calls": 31,
+            "sms": 159,
+            "emails": 6,
             "appointments": 13
           },
           {
             "name": "Ivana Fulks",
-            "calls": 104,
-            "sms": 468,
-            "emails": 52,
+            "calls": 98,
+            "sms": 399,
+            "emails": 47,
             "appointments": 1
           },
           {
@@ -4736,7 +4736,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-08-20T04:00:21.333234+00:00",
+      "window_end": "2026-08-20T06:00:29.351095+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4813,7 +4813,7 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 12,
+            "calls": 10,
             "sms": 20,
             "emails": 12,
             "appointments": 11
@@ -4827,16 +4827,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 36,
-            "sms": 184,
-            "emails": 12,
+            "calls": 35,
+            "sms": 175,
+            "emails": 10,
             "appointments": 116
           },
           {
             "name": "Ivana Fulks",
-            "calls": 132,
-            "sms": 680,
-            "emails": 64,
+            "calls": 121,
+            "sms": 563,
+            "emails": 57,
             "appointments": 3
           },
           {
