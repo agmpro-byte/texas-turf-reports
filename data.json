@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 12:01 UTC",
+  "generated_at": "2026-08-27 14:01 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1497,7 +1497,7 @@
       "stagePos": 3,
       "source": "SMS",
       "created": "2026-08-26",
-      "days": 0
+      "days": 1
     },
     {
       "id": "vK8gask8XbqDlHDAeMXn",
@@ -1797,7 +1797,7 @@
       "stagePos": 8,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-08-05",
-      "days": 21
+      "days": 22
     },
     {
       "id": "TbasiZePDu40pwjeeoey",
@@ -1887,7 +1887,7 @@
       "stagePos": 0,
       "source": null,
       "created": "2026-07-30",
-      "days": 27
+      "days": 28
     },
     {
       "id": "fYPhwnu1ajbs8U50radU",
@@ -1962,7 +1962,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-07-24",
-      "days": 33
+      "days": 34
     },
     {
       "id": "rzDxaMohXnp12cFbb5kY",
@@ -2232,7 +2232,7 @@
       "stagePos": 0,
       "source": null,
       "created": "2026-07-07",
-      "days": 50
+      "days": 51
     },
     {
       "id": "nhEdmlhCCOFuqhMJLTBE",
@@ -2412,7 +2412,7 @@
       "stagePos": 9,
       "source": null,
       "created": "2026-06-24",
-      "days": 63
+      "days": 64
     },
     {
       "id": "ZTC4M71Grish9heiEhi8",
@@ -2682,7 +2682,7 @@
       "stagePos": 10,
       "source": "SMS",
       "created": "2026-06-17",
-      "days": 70
+      "days": 71
     },
     {
       "id": "bhbs5M1qe4V3bEIEdy1T",
@@ -3032,7 +3032,7 @@
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 4,
+        "calls": 8,
         "sms": 0,
         "emails": 0,
         "appointments": 0
@@ -3047,15 +3047,15 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 90,
-        "emails": 8,
-        "appointments": 0
+        "sms": 124,
+        "emails": 12,
+        "appointments": 3
       },
       {
         "name": "Ivana Fulks",
-        "calls": 48,
-        "sms": 96,
-        "emails": 12,
+        "calls": 64,
+        "sms": 130,
+        "emails": 16,
         "appointments": 0
       },
       {
@@ -3731,7 +3731,7 @@
       "pipeline": "Residential Sales",
       "stage": "Lead",
       "assigned": "Ivana Fulks",
-      "days_stale": 33
+      "days_stale": 34
     },
     {
       "name": "LATHAM - TexasTurf Installation",
@@ -3921,8 +3921,8 @@
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 8,
-        "sms": 2,
+        "calls": 16,
+        "sms": 4,
         "emails": 0,
         "appointments": 0
       },
@@ -3935,16 +3935,16 @@
       },
       {
         "name": "Colin Corcoran",
-        "calls": 16,
-        "sms": 166,
-        "emails": 14,
-        "appointments": 0
+        "calls": 32,
+        "sms": 272,
+        "emails": 20,
+        "appointments": 8
       },
       {
         "name": "Ivana Fulks",
-        "calls": 80,
-        "sms": 315,
-        "emails": 33,
+        "calls": 121,
+        "sms": 461,
+        "emails": 51,
         "appointments": 0
       },
       {
@@ -4069,8 +4069,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-08-20T12:00:10.476015+00:00",
-      "window_end": "2026-08-27T12:00:10.476015+00:00",
+      "window_start": "2026-08-20T14:00:20.493135+00:00",
+      "window_end": "2026-08-27T14:00:20.493135+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4147,7 +4147,7 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 4,
+            "calls": 8,
             "sms": 0,
             "emails": 0,
             "appointments": 0
@@ -4162,15 +4162,15 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 90,
-            "emails": 8,
-            "appointments": 0
+            "sms": 124,
+            "emails": 12,
+            "appointments": 3
           },
           {
             "name": "Ivana Fulks",
-            "calls": 48,
-            "sms": 96,
-            "emails": 12,
+            "calls": 64,
+            "sms": 130,
+            "emails": 16,
             "appointments": 0
           },
           {
@@ -4200,7 +4200,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 30,
+            "leads": 29,
             "opportunities": 7
           },
           {
@@ -4229,7 +4229,7 @@
             "opportunities": 0
           }
         ],
-        "total_contacts": 45
+        "total_contacts": 44
       },
       "salesperson": {
         "rows": [
@@ -4280,8 +4280,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-07-28T12:00:10.476015+00:00",
-      "window_end": "2026-08-27T12:00:10.476015+00:00",
+      "window_start": "2026-07-28T14:00:20.493135+00:00",
+      "window_end": "2026-08-27T14:00:20.493135+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4358,8 +4358,8 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 8,
-            "sms": 2,
+            "calls": 16,
+            "sms": 4,
             "emails": 0,
             "appointments": 0
           },
@@ -4372,16 +4372,16 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 16,
-            "sms": 166,
-            "emails": 14,
-            "appointments": 0
+            "calls": 32,
+            "sms": 272,
+            "emails": 20,
+            "appointments": 8
           },
           {
             "name": "Ivana Fulks",
-            "calls": 80,
-            "sms": 315,
-            "emails": 33,
+            "calls": 121,
+            "sms": 461,
+            "emails": 51,
             "appointments": 0
           },
           {
@@ -4507,7 +4507,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-07-01T00:00:00+00:00",
-      "window_end": "2026-08-27T12:00:10.476015+00:00",
+      "window_end": "2026-08-27T14:00:20.493135+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4584,8 +4584,8 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 8,
-            "sms": 2,
+            "calls": 16,
+            "sms": 4,
             "emails": 0,
             "appointments": 0
           },
@@ -4598,17 +4598,17 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 16,
-            "sms": 168,
-            "emails": 14,
-            "appointments": 0
+            "calls": 32,
+            "sms": 276,
+            "emails": 20,
+            "appointments": 16
           },
           {
             "name": "Ivana Fulks",
-            "calls": 80,
-            "sms": 372,
-            "emails": 38,
-            "appointments": 0
+            "calls": 121,
+            "sms": 541,
+            "emails": 59,
+            "appointments": 1
           },
           {
             "name": "Sales AGM",
@@ -4733,7 +4733,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-08-27T12:00:10.476015+00:00",
+      "window_end": "2026-08-27T14:00:20.493135+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4810,10 +4810,10 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 11,
-            "sms": 14,
-            "emails": 9,
-            "appointments": 0
+            "calls": 20,
+            "sms": 20,
+            "emails": 12,
+            "appointments": 11
           },
           {
             "name": "Blackwater AI",
@@ -4824,17 +4824,17 @@
           },
           {
             "name": "Colin Corcoran",
-            "calls": 18,
-            "sms": 176,
-            "emails": 16,
-            "appointments": 0
+            "calls": 36,
+            "sms": 292,
+            "emails": 24,
+            "appointments": 119
           },
           {
             "name": "Ivana Fulks",
-            "calls": 113,
-            "sms": 594,
-            "emails": 46,
-            "appointments": 0
+            "calls": 165,
+            "sms": 837,
+            "emails": 71,
+            "appointments": 3
           },
           {
             "name": "Sales AGM",
